@@ -1,14 +1,27 @@
 {
     "data": [
         {
-            "date": "2014-04-29", 
-            "language": "de", 
-            "source": "futurezone", 
+            "date": "2014-04-29",
+            "language": "de",
+            "source": "futurezone",
             "tags": [
                 "Labels"
-            ], 
-            "title": "Vienna Teng: \"Fraglich, ob Labels noch Sinn machen\"", 
+            ],
+            "title": "Vienna Teng: \"Fraglich, ob Labels noch Sinn machen\"",
             "url": "http://futurezone.at/digital-life/vienna-teng-fraglich-ob-labels-noch-sinn-machen/62.065.286"
+        },
+        {
+            "date": "2014-04-01",
+            "language": "de",
+            "source": "futurezone",
+            "tags": [
+                "Bitkom",
+                "Gema",
+                "Video on Demand",
+                "Online-Video"
+            ],
+            "title": "IT-Branche und Gema einig über Gebühren für Online-Video",
+            "url": "http://futurezone.at/netzpolitik/it-branche-und-gema-einig-ueber-gebuehren-fuer-online-video/58.686.771(external link)"
         }
     ]
 }
