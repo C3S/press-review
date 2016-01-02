@@ -1,27 +1,1676 @@
 {
     "data": [
         {
-            "date": "2014-04-29",
-            "language": "de",
-            "source": "futurezone",
+            "date": "2014-04-29 06:00", 
+            "language": "de", 
+            "source": "futurezone", 
             "tags": [
                 "Labels"
-            ],
-            "title": "Vienna Teng: \"Fraglich, ob Labels noch Sinn machen\"",
+            ], 
+            "title": "Vienna Teng: \"Fraglich, ob Labels noch Sinn machen\"", 
             "url": "http://futurezone.at/digital-life/vienna-teng-fraglich-ob-labels-noch-sinn-machen/62.065.286"
-        },
+        }, 
         {
-            "date": "2014-04-01",
-            "language": "de",
-            "source": "futurezone",
+            "date": "2014-04-28 16:03", 
+            "language": "de", 
+            "source": "golem", 
             "tags": [
-                "Bitkom",
-                "Gema",
-                "Video on Demand",
+                "Musiknoten"
+            ], 
+            "title": "\"Freie Musiknoten f\u00fcr alle\"", 
+            "url": "http://www.golem.de/news/geplantes-musik-wiki-freie-musiknoten-fuer-alle-1404-106111.html"
+        }, 
+        {
+            "date": "2014-04-09 12:00", 
+            "language": "de", 
+            "source": "taz", 
+            "tags": [
+                "Gema"
+            ], 
+            "title": "Neue Wege im Paragrafendschungel", 
+            "url": "http://www.taz.de/Konkurrenz-fuer-die-Gema/!136441/"
+        }, 
+        {
+            "date": "2014-04-02 13:12", 
+            "language": "de", 
+            "source": "heise online", 
+            "tags": [
+                "Genossenschaftsregister", 
+                "Amtsgericht", 
+                "Europ\u00e4ische Genossenschaft", 
+                "C3S", 
+                "D\u00fcsseldorf"
+            ], 
+            "title": "GEMA-Alternative C3S kann Gesch\u00e4ftsbetrieb aufnehmen", 
+            "url": "http://www.heise.de/newsticker/meldung/GEMA-Alternative-C3S-kann-Geschaeftsbetrieb-aufnehmen-2160234.html"
+        }, 
+        {
+            "date": "2014-04-02 12:00", 
+            "language": "de", 
+            "source": "Linux Magazin", 
+            "tags": [
+                "Genossenschaftsregister", 
+                "Amtsgericht", 
+                "Europ\u00e4ische Genossenschaft", 
+                "C3S", 
+                "D\u00fcsseldorf"
+            ], 
+            "title": "Gema-Alternative C3S nimmt weitere H\u00fcrde", 
+            "url": "http://www.linux-magazin.de/NEWS/Gema-Alternative-C3S-nimmt-weitere-Huerde"
+        }, 
+        {
+            "date": "2014-04-02 11:41", 
+            "language": "de", 
+            "source": "golem", 
+            "tags": [
+                "Genossenschaftsregister", 
+                "Amtsgericht", 
+                "Europ\u00e4ische Genossenschaft", 
+                "C3S", 
+                "D\u00fcsseldorf"
+            ], 
+            "title": "Gema-Konkurrent legt im Mai los", 
+            "url": "http://www.golem.de/news/c3s-gema-konkurrent-legt-im-mai-los-1404-105548.html"
+        }, 
+        {
+            "date": "2014-04-01 15:34", 
+            "language": "de", 
+            "source": "futurezone", 
+            "tags": [
+                "Bitkom", 
+                "Gema", 
+                "Video on Demand", 
                 "Online-Video"
-            ],
-            "title": "IT-Branche und Gema einig über Gebühren für Online-Video",
-            "url": "http://futurezone.at/netzpolitik/it-branche-und-gema-einig-ueber-gebuehren-fuer-online-video/58.686.771(external link)"
+            ], 
+            "title": "IT-Branche und Gema einig \u00fcber Geb\u00fchren f\u00fcr Online-Video", 
+            "url": "http://futurezone.at/netzpolitik/it-branche-und-gema-einig-ueber-gebuehren-fuer-online-video/58.686.771"
+        }, 
+        {
+            "date": "2014-04-01 15:10", 
+            "language": "de", 
+            "source": "heise online", 
+            "tags": [
+                "Bitkom", 
+                "Gema", 
+                "Video on Demand", 
+                "Online-Video"
+            ], 
+            "title": "Video on Demand: Bitkom und Gema vereinbaren Gesamtvertrag", 
+            "url": "http://www.heise.de/newsticker/meldung/Video-on-Demand-Bitkom-und-Gema-vereinbaren-Gesamtvertrag-2159317.html"
+        }, 
+        {
+            "date": "2014-04-01 12:00", 
+            "language": "de", 
+            "source": "OpenRadio", 
+            "tags": [
+                "Genossenschaftsregister", 
+                "Amtsgericht", 
+                "Europ\u00e4ische Genossenschaft", 
+                "C3S", 
+                "D\u00fcsseldorf"
+            ], 
+            "title": "Startschuss: C3S als Europ\u00e4ische Genossenschaft im Register eingetragen", 
+            "url": "http://openradio.cc/startschuss-c3s-als-europaeische-genossenschaft-im-register-eingetragen/"
+        }, 
+        {
+            "date": "2014-04-01 12:00", 
+            "language": "de", 
+            "source": "Musikmarkt", 
+            "tags": [
+                "Genossenschaftsregister", 
+                "Amtsgericht", 
+                "Europ\u00e4ische Genossenschaft", 
+                "C3S", 
+                "D\u00fcsseldorf"
+            ], 
+            "title": "Es geht los: C3S als Europ\u00e4ische Genossenschaft eingetragen", 
+            "url": "http://www.musikmarkt.de/Aktuell/News/Es-geht-los-C3S-als-Europaeische-Genossenschaft-eingetragen"
+        }, 
+        {
+            "date": "2014-03-31 12:00", 
+            "language": "de", 
+            "source": "taz", 
+            "tags": [
+                "Genossenschaftsregister", 
+                "Amtsgericht", 
+                "Europ\u00e4ische Genossenschaft", 
+                "C3S", 
+                "D\u00fcsseldorf"
+            ], 
+            "title": "Eine demokratischere Struktur", 
+            "url": "http://www.taz.de/1/berlin/tazplan-kultur/artikel/?dig=2014/03/31/a0152"
+        }, 
+        {
+            "date": "2014-03-25 14:26", 
+            "language": "de", 
+            "source": "heise online", 
+            "tags": [
+                "GEMA", 
+                "Urheberrecht", 
+                "UseNeXT"
+            ], 
+            "title": "GEMA setzt sich erneut gegen UseNeXT durch", 
+            "url": "http://www.heise.de/newsticker/meldung/GEMA-setzt-sich-erneut-gegen-UseNeXT-durch-2154404.html"
+        }, 
+        {
+            "date": "2014-03-20 14:11", 
+            "language": "de", 
+            "source": "heise online", 
+            "tags": [
+                "CC-Lizenz", 
+                "Deutschlandradio"
+            ], 
+            "title": "Versto\u00df gegen CC-Lizenz: Deutschlandradio muss zahlen", 
+            "url": "http://www.heise.de/newsticker/meldung/Verstoss-gegen-CC-Lizenz-Deutschlandradio-muss-zahlen-2151308.html"
+        }, 
+        {
+            "date": "2014-03-18 16:50", 
+            "language": "de", 
+            "source": "heise online", 
+            "tags": [
+                "Online-Dienste"
+            ], 
+            "title": "Neue Online-Dienste lassen Musikbranche aufatmen", 
+            "url": "http://www.heise.de/newsticker/meldung/Neue-Online-Dienste-lassen-Musikbranche-aufatmen-2149546.html"
+        }, 
+        {
+            "date": "2014-03-17 15:37", 
+            "language": "de", 
+            "source": "golem", 
+            "tags": [
+                "GEMA-Vermutung", 
+                "Petitionsausschuss"
+            ], 
+            "title": "Petitionsausschuss empfiehlt Anpassung der Gema-Vermutung", 
+            "url": "http://www.golem.de/news/urheberrecht-petitionsausschuss-empfiehlt-anpassung-der-gema-vermutung-1403-105190.html"
+        }, 
+        {
+            "date": "2014-03-17 12:47", 
+            "language": "de", 
+            "source": "Telepolis", 
+            "tags": [
+                "GEMA-Vermutung", 
+                "Petitionsausschuss", 
+                "Urheberrechtswahrnehmungsgesetz"
+            ], 
+            "title": "Petitionsausschuss sieht GEMA-Vermutung durch C3S gef\u00e4hrdet", 
+            "url": "http://www.heise.de/tp/artikel/41/41262/1.html"
+        }, 
+        {
+            "date": "2014-03-17 12:00", 
+            "language": "de", 
+            "source": "other", 
+            "tags": [
+                "GEMA-Vermutung", 
+                "Petitionsausschuss"
+            ], 
+            "title": "BESCHLUSSEMPFEHLUNG ZUR EPETITION \"AUFHEBUNG DER SOGENANNTEN GEMA-VERMUTUNG\"", 
+            "url": "http://musik.klarmachen-zum-aendern.de/content/beschlussempfehlung_zur_epetition_aufhebung_der_sogenannten_gema-vermutung-3018"
+        }, 
+        {
+            "date": "2014-03-12 19:52", 
+            "language": "de", 
+            "source": "Zeit", 
+            "tags": [
+                "Urheberrechts"
+            ], 
+            "title": "\"Das Neue entsteht nie da, wo man es erwartet\"", 
+            "url": "http://www.zeit.de/digital/internet/2014-03/urheberrechts-konflikte-monika-dommann/komplettansicht"
+        }, 
+        {
+            "date": "2014-03-07 12:55", 
+            "language": "de", 
+            "source": "heise online", 
+            "tags": [
+                "GEMA", 
+                "YouTube"
+            ], 
+            "title": "Nach Gema-Klage: YouTube \u00e4ndert Text auf Video-Sperrtafeln", 
+            "url": "http://www.heise.de/newsticker/meldung/Nach-Gema-Klage-YouTube-aendert-Text-auf-Video-Sperrtafeln-2137387.html"
+        }, 
+        {
+            "date": "2014-02-25 16:22", 
+            "language": "de", 
+            "source": "heise online", 
+            "tags": [
+                "Gema", 
+                "Youtube"
+            ], 
+            "title": "Gema gewinnt gegen YouTube: Sperrtafeln untersagt", 
+            "url": "http://www.heise.de/newsticker/meldung/Gema-gewinnt-gegen-YouTube-Sperrtafeln-untersagt-2123719.html"
+        }, 
+        {
+            "date": "2014-02-25 12:00", 
+            "language": "de", 
+            "source": "GEMA", 
+            "tags": [
+                "Gema", 
+                "Youtube"
+            ], 
+            "title": "Landgericht M\u00fcnchen urteilt: GEMA-Sperrtafeln auf YouTube sind rechtswidrig", 
+            "url": "https://www.gema.de/presse/pressemitteilungen/presse-details/article/landgericht-muenchen-urteilt-gema-sperrtafeln-auf-youtube-sind-rechtswidrig.html"
+        }, 
+        {
+            "date": "2014-02-24 16:06", 
+            "language": "de", 
+            "source": "heise online", 
+            "tags": [
+                "Gema", 
+                "Smartphone", 
+                "Abgaben", 
+                "ZP\u00dc", 
+                "VG Wort", 
+                "Privatkopie"
+            ], 
+            "title": "Deutsche Rechte-Verwerter drohen Handyherstellern mit Klagen", 
+            "url": "http://www.heise.de/newsticker/meldung/Deutsche-Rechte-Verwerter-drohen-Handyherstellern-mit-Klagen-2122764.html"
+        }, 
+        {
+            "date": "2014-02-24 13:19", 
+            "language": "de", 
+            "source": "Spiegel Online", 
+            "tags": [
+                "Gema", 
+                "Smartphone", 
+                "Abgaben", 
+                "ZP\u00dc", 
+                "VG Wort", 
+                "Privatkopie"
+            ], 
+            "title": "Smartphone-Abgabe: Gema, VG Wort und Co. drohen Handy-Konzernen", 
+            "url": "http://www.spiegel.de/netzwelt/netzpolitik/handy-abgabe-deutsche-verwerter-wollen-bis-zu-36-euro-pro-smartphone-a-954526.html"
+        }, 
+        {
+            "date": "2014-02-18 13:20", 
+            "language": "de", 
+            "source": "heise online", 
+            "tags": [
+                "Leistungsschutzrecht", 
+                "VG Wort"
+            ], 
+            "title": "Leistungsschutzrecht: Verleger verb\u00fcnden sich mit VG Media", 
+            "url": "http://www.heise.de/newsticker/meldung/Leistungsschutzrecht-Verleger-verbuenden-sich-mit-VG-Media-2117114.html"
+        }, 
+        {
+            "date": "2014-02-07 19:55", 
+            "language": "de", 
+            "source": "golem", 
+            "tags": [
+                "GEMA", 
+                "Video", 
+                "Einbettung"
+            ], 
+            "title": "Protest gegen Gema-Geb\u00fchren f\u00fcr eingebettete Videos", 
+            "url": "http://www.golem.de/news/change-org-protest-gegen-gema-gebuehren-fuer-eingebettete-videos-1402-104445.html"
+        }, 
+        {
+            "date": "2014-02-07 00:58", 
+            "language": "de", 
+            "source": "Telepolis", 
+            "tags": [
+                "Internet", 
+                "GEMA", 
+                "Radio"
+            ], 
+            "title": "Internet-Radio ohne GEMA-Geb\u00fchren", 
+            "url": "http://www.heise.de/tp/artikel/40/40940/1.html"
+        }, 
+        {
+            "date": "2014-02-06 18:07", 
+            "language": "de", 
+            "source": "heise online", 
+            "tags": [
+                "EuGH", 
+                "GEMA", 
+                "AKM", 
+                "Video", 
+                "Einbettung"
+            ], 
+            "title": "GEMA zur Verg\u00fctung eingebetteter Videos: Auf EuGH warten und Tee trinken", 
+            "url": "http://www.heise.de/newsticker/meldung/GEMA-zur-Verguetung-eingebetteter-Videos-Auf-EuGH-warten-und-Tee-trinken-2107071.html"
+        }, 
+        {
+            "date": "2014-02-05 14:52", 
+            "language": "de", 
+            "source": "Telepolis", 
+            "tags": [
+                "Gema", 
+                "YouTube", 
+                "Video", 
+                "Einbettung"
+            ], 
+            "title": "GEMA will eingebettete Videos lizenzpflichtig machen", 
+            "url": "http://www.heise.de/tp/blogs/6/155804"
+        }, 
+        {
+            "date": "2014-02-04 14:37", 
+            "language": "de", 
+            "source": "golem", 
+            "tags": [
+                "Gema", 
+                "YouTube", 
+                "Video", 
+                "Einbettung"
+            ], 
+            "title": "Auch die Gema fordert Geld f\u00fcr Youtube-Einbettungen", 
+            "url": "http://www.golem.de/news/urheberrecht-auch-die-gema-fordert-geld-fuer-youtube-einbettungen-1402-104358.html"
+        }, 
+        {
+            "date": "2014-02-03 16:03", 
+            "language": "de", 
+            "source": "golem", 
+            "tags": [
+                "AKM", 
+                "YouTube", 
+                "Video", 
+                "Einbettung"
+            ], 
+            "title": "Einbetten von Youtube-Videos soll kostenpflichtig werden", 
+            "url": "http://www.golem.de/news/verwertungsgesellschaft-einbetten-von-youtube-videos-soll-kostenpflichtig-werden-1402-104333.html"
+        }, 
+        {
+            "date": "2014-02-03 06:00", 
+            "language": "de", 
+            "source": "futurezone", 
+            "tags": [
+                "AKM", 
+                "YouTube", 
+                "Video", 
+                "Einbettung"
+            ], 
+            "title": "Verwertungsgesellschaft will Geld f\u00fcr eingebettete Videos", 
+            "url": "http://futurezone.at/netzpolitik/verwertungsgesellschaft-will-geld-fuer-eingebettete-videos/48.934.489"
+        }, 
+        {
+            "date": "2014-01-28 08:21", 
+            "language": "de", 
+            "source": "heise online", 
+            "tags": [
+                "Gema", 
+                "Klage", 
+                "Piraten"
+            ], 
+            "title": "Pirat Bruno Kramm zieht gegen die GEMA vor Gericht", 
+            "url": "http://www.heise.de/newsticker/meldung/Pirat-Bruno-Kramm-zieht-gegen-die-GEMA-vor-Gericht-1792225.html"
+        }, 
+        {
+            "date": "2014-01-17 12:00", 
+            "language": "de", 
+            "source": "coolibri", 
+            "tags": [
+                "c3s", 
+                "gema"
+            ], 
+            "title": "C3S: Echte GEMA-Alternative?", 
+            "url": "http://www.coolibri.de/redaktion/aktuelles/0114/c3s-echte-gema-alternative.html"
+        }, 
+        {
+            "date": "2013-12-16 17:11", 
+            "language": "de", 
+            "source": "heise online", 
+            "tags": [
+                "YouTube", 
+                "Gema", 
+                "Tarif"
+            ], 
+            "title": "YouTube-Rivalen bekommen Tarif-Nachlass bei der Gema ", 
+            "url": "http://www.heise.de/newsticker/meldung/YouTube-Rivalen-bekommen-Tarif-Nachlass-bei-der-Gema-2066892.html"
+        }, 
+        {
+            "date": "2013-11-21 14:00", 
+            "language": "nl", 
+            "source": "Telegraaf", 
+            "tags": [
+                "Weihnachtslied", 
+                "Niederlande", 
+                "Schule"
+            ], 
+            "title": "Scholen gecontroleerd op sinterklaasliedjes", 
+            "url": "http://www.telegraaf.nl/binnenland/22076706/<strong>Controle_bij_scholen_op_sintcd_s</strong>.html"
+        }, 
+        {
+            "date": "2013-11-19 14:41", 
+            "language": "de", 
+            "source": "Telepolis", 
+            "tags": [
+                "Bayerischer Rundfunk", 
+                "Space Night", 
+                "Gema"
+            ], 
+            "title": "Web Community reanimierte TV-Kultsendung", 
+            "url": "http://www.heise.de/tp/artikel/40/40363/1.html"
+        }, 
+        {
+            "date": "2013-11-06 12:48", 
+            "language": "de", 
+            "source": "heise online", 
+            "tags": [
+                "EU", 
+                "online", 
+                "Gema"
+            ], 
+            "title": "EU-Kompromiss zu Verwertungsgesellschaften: Online-Lizenzierung von Musik wird einfacher", 
+            "url": "http://www.heise.de/newsticker/meldung/EU-Kompromiss-zu-Verwertungsgesellschaften-Online-Lizenzierung-von-Musik-wird-einfacher-2041044.html"
+        }, 
+        {
+            "date": "2013-10-30 12:00", 
+            "language": "de", 
+            "source": "Telepolis", 
+            "tags": [
+                "VG Wort", 
+                "BGH", 
+                "Aussch\u00fcttung"
+            ], 
+            "title": "VG Wort will sich illegale Aussch\u00fcttung an Verlage von Gro\u00dfer Koalition genehmigen lassen", 
+            "url": "http://www.heise.de/tp/artikel/40/40199/1.html"
+        }, 
+        {
+            "date": "2013-10-24 12:00", 
+            "language": "de", 
+            "source": "Telepolis", 
+            "tags": [
+                "Kritiker", 
+                "Gema", 
+                "Schiller-Preis"
+            ], 
+            "title": "Zu \"progressiv\" oder zu lang?", 
+            "url": "http://www.heise.de/tp/artikel/40/40163/1.html"
+        }, 
+        {
+            "date": "2013-10-23 12:00", 
+            "language": "de", 
+            "source": "Telepolis", 
+            "tags": [
+                "C3S", 
+                "Gema", 
+                "Musikpiraten"
+            ], 
+            "title": "Verein Musikpiraten will GEMA erneut vor Gericht bringen", 
+            "url": "http://www.heise.de/tp/blogs/6/155195"
+        }, 
+        {
+            "date": "2013-10-14 17:50", 
+            "language": "de", 
+            "source": "heise online", 
+            "tags": [
+                "Gema", 
+                "BR", 
+                "Creative Commons"
+            ], 
+            "title": "Space Night wegen US-Haushaltsstreit verschoben", 
+            "url": "http://www.heise.de/newsticker/meldung/Space-Night-wegen-US-Haushaltsstreit-verschoben-1978657.html"
+        }, 
+        {
+            "date": "2013-10-09 00:00", 
+            "language": "de", 
+            "source": "BLN.FM", 
+            "tags": [
+                "gema", 
+                "tarif", 
+                "interview", 
+                "reform", 
+                "erfassung", 
+                "clubs"
+            ], 
+            "title": "GEMA und Clubs wer\u00adkeln an \u201eReform\u201d", 
+            "url": "http://www.bln.fm/2013/10/gema-und-clubs-werkeln-an-reform/"
+        }, 
+        {
+            "date": "2013-10-07 08:45", 
+            "language": "de", 
+            "source": "Computerbild", 
+            "tags": [
+                "C3S", 
+                "Gema", 
+                "Fehlinformation", 
+                "YouTube"
+            ], 
+            "title": "C3S: GEMA-Alternative will Tausch legalisieren", 
+            "url": "http://www.computerbild.de/artikel/cb-Aktuell-Internet-C3S-Gema-Alternative-will-Tausch-legalisieren-8764992.html"
+        }, 
+        {
+            "date": "2013-09-30 12:15", 
+            "language": "de", 
+            "source": "golem", 
+            "tags": [
+                "C3S", 
+                "Gema"
+            ], 
+            "title": "Was die Gema-Konkurrenz anders machen will", 
+            "url": "http://www.golem.de/news/c3s-was-die-gema-konkurrenz-anders-machen-will-1309-101858.html"
+        }, 
+        {
+            "date": "2013-09-30 12:09", 
+            "language": "de", 
+            "source": "golem", 
+            "tags": [
+                "Video", 
+                "Interview", 
+                "C3S", 
+                "Gema"
+            ], 
+            "title": "Gema-Alternative C3S - Interview mit Meik Michalke", 
+            "url": "http://video.golem.de/audio-video/11746/gema-alternative-c3s-interview-mit-meik-michalke.html"
+        }, 
+        {
+            "date": "2013-09-27 16:55", 
+            "language": "de", 
+            "source": "Stern", 
+            "tags": [
+                "C3S", 
+                "Gema"
+            ], 
+            "title": "Die Gema-Rebellen formieren sich", 
+            "url": "http://www.stern.de/wirtschaft/news/neue-verwertungsgesellschaft-die-gema-rebellen-formieren-sich-2061088.html"
+        }, 
+        {
+            "date": "2013-09-27 12:00", 
+            "language": "de", 
+            "source": "Linux Magazin", 
+            "tags": [
+                "Gr\u00fcndungsversammlung"
+            ], 
+            "title": "Gema-Alternative C3S nimmt juristische H\u00fcrde", 
+            "url": "http://www.linux-magazin.de/NEWS/Gema-Alternative-C3S-nimmt-juristische-Huerde"
+        }, 
+        {
+            "date": "2013-09-26 13:55", 
+            "language": "de", 
+            "source": "Telepolis", 
+            "tags": [
+                "youtube", 
+                "Schweiz", 
+                "Suisa"
+            ], 
+            "title": "YouTube und Musikverwertungsgesellschaft einigen sich auf Lizenzvertrag", 
+            "url": "http://www.heise.de/tp/blogs/6/155033"
+        }, 
+        {
+            "date": "2013-09-26 13:27", 
+            "language": "de", 
+            "source": "netzpolitik", 
+            "tags": [
+                "C3S", 
+                "Gema"
+            ], 
+            "title": "GEMA-Alternative: Die C3S ist gegr\u00fcndet", 
+            "url": "https://netzpolitik.org/2013/gema-alternative-die-c3s-ist-gegruendet/"
+        }, 
+        {
+            "date": "2013-09-26 13:18", 
+            "language": "de", 
+            "source": "golem", 
+            "tags": [
+                "C3S", 
+                "Gema"
+            ], 
+            "title": "Gema-Alternative gegr\u00fcndet", 
+            "url": "http://www.golem.de/news/c3s-gema-alternative-gegruendet-1309-101810.html"
+        }, 
+        {
+            "date": "2013-09-26 13:18", 
+            "language": "de", 
+            "source": "heise online", 
+            "tags": [
+                "Online-Dienste"
+            ], 
+            "title": "Musikindustrie kennzeichnet \"faire und legale Musikangebote\"", 
+            "url": "http://www.heise.de/newsticker/meldung/Musikindustrie-kennzeichnet-faire-und-legale-Musikangebote-1967778.html"
+        }, 
+        {
+            "date": "2013-09-26 11:08", 
+            "language": "de", 
+            "source": "heise online", 
+            "tags": [
+                "c3s", 
+                "gema"
+            ], 
+            "title": "GEMA-Alternative C3S gegr\u00fcndet", 
+            "url": "http://www.heise.de/newsticker/meldung/GEMA-Alternative-C3S-gegruendet-1967097.html"
+        }, 
+        {
+            "date": "2013-09-26 09:07", 
+            "language": "de", 
+            "source": "heise online", 
+            "tags": [
+                "youtube", 
+                "Schweiz", 
+                "Suisa"
+            ], 
+            "title": "Schweizer Verwertungsgesellschaft einigt sich mit YouTube", 
+            "url": "http://www.heise.de/newsticker/meldung/Schweizer-Verwertungsgesellschaft-einigt-sich-mit-YouTube-1966918.html"
+        }, 
+        {
+            "date": "2013-09-25 12:00", 
+            "language": "de", 
+            "source": "Berliner Zeitung", 
+            "tags": [
+                "C3S", 
+                "Gema"
+            ], 
+            "title": "Cultural Commons Collecting Society C3S: Alternative zur Gema gegr\u00fcndet", 
+            "url": "http://www.berliner-zeitung.de/kultur/cultural-commons-collecting-society-c3s-alternative-zur-gema-gegruendet%2C10809150%2C24440926.html"
+        }, 
+        {
+            "date": "2013-09-25 12:00", 
+            "language": "de", 
+            "source": "Telemedicus", 
+            "tags": [
+                "Freie Musik", 
+                "c3s"
+            ], 
+            "title": "C3S: Geld f\u00fcr freie Musik?", 
+            "url": "http://www.telemedicus.info/article/2642-C3S-Geld-fuer-freie-Musik.html"
+        }, 
+        {
+            "date": "2013-09-19 12:00", 
+            "language": "de", 
+            "source": "FAZ", 
+            "tags": [
+                "Gema", 
+                "C3s"
+            ], 
+            "title": "Legaler Tausch schlie\u00dft Profit nicht aus", 
+            "url": "http://www.faz.net/aktuell/feuilleton/medien/gema-alternative-c3s-legaler-tausch-schliesst-profit-nicht-aus-12578461.html"
+        }, 
+        {
+            "date": "2013-08-17 12:04", 
+            "language": "de", 
+            "source": "heise online", 
+            "tags": [
+                "Urheberrecht", 
+                "VG Mudikedition", 
+                "katholische Kirche"
+            ], 
+            "title": "Illegale Notenkopien bei der katholischen Kirche", 
+            "url": "http://www.heise.de/newsticker/meldung/Illegale-Notenkopien-bei-der-katholischen-Kirche-1937475.html"
+        }, 
+        {
+            "date": "2013-08-16 10:20", 
+            "language": "de", 
+            "source": "Zeit", 
+            "tags": [
+                "Urheberrecht", 
+                "VG Mudikedition", 
+                "katholische Kirche"
+            ], 
+            "title": "Katholische Kirche gesteht 700.000 illegale Kopien", 
+            "url": "http://www.zeit.de/kultur/musik/2013-08/illegale-noten-katholische-kirche"
+        }, 
+        {
+            "date": "2013-08-15 16:27", 
+            "language": "de", 
+            "source": "heise online", 
+            "tags": [
+                "c3s", 
+                "gema", 
+                "crowdfunding"
+            ], 
+            "title": "NRW-F\u00f6rderung f\u00fcr Projekt der GEMA-Alternative C3S", 
+            "url": "http://www.heise.de/newsticker/meldung/NRW-Foerderung-fuer-Projekt-der-GEMA-Alternative-C3S-1936471.html"
+        }, 
+        {
+            "date": "2013-08-12 12:05", 
+            "language": "de", 
+            "source": "Deutschlandradio", 
+            "tags": [
+                "C3S", 
+                "Gema", 
+                "Podcast"
+            ], 
+            "title": "Die GEMA-Rebellen", 
+            "url": "http://www.dradio.de/dlf/sendungen/corso/2212809/"
+        }, 
+        {
+            "date": "2013-08-08 16:25", 
+            "language": "de", 
+            "source": "MusikWoche mediabiz", 
+            "tags": [
+                "C3S", 
+                "GEMA"
+            ], 
+            "title": "GEMA-Justiziar Tobias Holzm\u00fcller: \"Wir sehen die C3S nicht als echte Alternative zur GEMA\"", 
+            "url": "http://www.mediabiz.de/musik/news/gema-justiziar-tobias-holzmueller-wir-sehen-die-c3s-nicht-als-echte-alternative-zur-gema/336424"
+        }, 
+        {
+            "date": "2013-08-06 08:34", 
+            "language": "de", 
+            "source": "Deutschlandradio", 
+            "tags": [
+                "C3S", 
+                "Gema"
+            ], 
+            "title": "Fairer als die Gema", 
+            "url": "http://www.dradiowissen.de/creative-commons-fairer-als-die-gema.36.de.html?dram:article_id=256554"
+        }, 
+        {
+            "date": "2013-08-06 06:08", 
+            "language": "de", 
+            "source": "DerWesten", 
+            "tags": [
+                "C3S", 
+                "Gema"
+            ], 
+            "title": "Neue Musikverwertungsgesellschaft C3S soll der Gema Konkurrenz machen", 
+            "url": "http://www.derwesten.de/kultur/neue-musikverwertungsgesellschaft-c3s-soll-der-gema-konkurrenz-machen-id8278633.html"
+        }, 
+        {
+            "date": "2013-08-02 15:15", 
+            "language": "de", 
+            "source": "futurezone", 
+            "tags": [
+                "C3S", 
+                "Crowdfunding", 
+                "Gema"
+            ], 
+            "title": "GEMA-Alternative C3S sammelt 80.000 Euro", 
+            "url": "http://futurezone.at/netzpolitik/17477-gema-alternative-c3s-sammelt-80-000-euro.php"
+        }, 
+        {
+            "date": "2013-08-02 14:12", 
+            "language": "de", 
+            "source": "CHIP", 
+            "tags": [
+                "C3S", 
+                "Crowdfunding", 
+                "Gema"
+            ], 
+            "title": "C3S: GEMA-Alternative erreicht Zwischenziel", 
+            "url": "http://www.chip.de/news/C3S-GEMA-Alternative-erreicht-Zwischenziel_63473361.html"
+        }, 
+        {
+            "date": "2013-08-02 13:23", 
+            "language": "de", 
+            "source": "Winfuture", 
+            "tags": [
+                "C3S", 
+                "Crowdfunding", 
+                "Gema"
+            ], 
+            "title": "GEMA-Konkurrent C3S schafft erstes Etappenziel", 
+            "url": "http://winfuture.de/news%2C77238.html"
+        }, 
+        {
+            "date": "2013-08-02 12:36", 
+            "language": "de", 
+            "source": "Computerbase", 
+            "tags": [
+                "C3S", 
+                "Crowdfunding", 
+                "Gema"
+            ], 
+            "title": "C3S will sich zur Gema-Alternative entwickeln", 
+            "url": "http://www.computerbase.de/news/2013-08/c3s-will-sich-zur-gema-alternative-entwickeln/"
+        }, 
+        {
+            "date": "2013-08-02 09:20", 
+            "language": "de", 
+            "source": "heise online", 
+            "tags": [
+                "C3S", 
+                "Crowdfunding", 
+                "Gema"
+            ], 
+            "title": "Geplante GEMA-Alternative C3S erreicht Etappenziel", 
+            "url": "http://www.heise.de/newsticker/meldung/Geplante-GEMA-Alternative-C3S-erreicht-Etappenziel-1928681.html"
+        }, 
+        {
+            "date": "2013-08-02 06:50", 
+            "language": "de", 
+            "source": "Telekom Presse", 
+            "tags": [
+                "C3S", 
+                "Crowdfunding", 
+                "Gema"
+            ], 
+            "title": "C3S: AKM/GEMA-Alternative sammelt in 19 Tagen 80.000 EUR", 
+            "url": "http://www.telekom-presse.at/C3S_AKM-GEMA-Alternative_sammelt_in_19_Tagen_80-000_EUR_.id.26753.htm"
+        }, 
+        {
+            "date": "2013-08-01 12:00", 
+            "language": "de", 
+            "source": "Musikmarkt", 
+            "tags": [
+                "C3S", 
+                "Crowdfunding", 
+                "Gema"
+            ], 
+            "title": "C3S: GEMA-Alternative sammelt 80.000 Euro in 19 Tagen", 
+            "url": "http://www.musikmarkt.de/Aktuell/News/C3S-GEMA-Alternative-sammelt-80.000-Euro-in-19-Tagen"
+        }, 
+        {
+            "date": "2013-07-31 12:00", 
+            "language": "de", 
+            "source": "taz", 
+            "tags": [
+                "C3S", 
+                "Crowdfunding", 
+                "Gema"
+            ], 
+            "title": "Konkurrenz f\u00fcr die Gema", 
+            "url": "http://taz.de/Crowdfunding-Initiative-fuer-Urheberrecht/!120995/"
+        }, 
+        {
+            "date": "2013-07-30 12:00", 
+            "language": "de", 
+            "source": "musikexpress", 
+            "tags": [
+                "C3S", 
+                "Gema"
+            ], 
+            "title": "C3S: Die GEMA f\u00fcr das digitale Zeitalter?", 
+            "url": "http://www.musikexpress.de/technik-web-gadgets/article452717/c3s-die-gema-fuer-das-digitale-zeitalter.html"
+        }, 
+        {
+            "date": "2013-07-30 10:04", 
+            "language": "de", 
+            "source": "Stern", 
+            "tags": [
+                "C3S", 
+                "Gema", 
+                "Rebellion", 
+                "YouTube"
+            ], 
+            "title": "Neue Musikverwertungsgesellschaft C3S - Die Gema-Rebellen", 
+            "url": "http://www.stern.de/2044399.html"
+        }, 
+        {
+            "date": "2013-07-26 16:30", 
+            "language": "de", 
+            "source": "CHIP", 
+            "tags": [
+                "C3S", 
+                "Crowdfunding", 
+                "Gema"
+            ], 
+            "title": "GEMA: Konkurrenz-Organisation vor Durchbruch", 
+            "url": "http://business.chip.de/news/GEMA-Konkurrenz-Organisation-vor-Durchbruch_63319344.html"
+        }, 
+        {
+            "date": "2013-07-22 11:17", 
+            "language": "de", 
+            "source": "WSJ", 
+            "tags": [
+                "C3S", 
+                "Gema", 
+                "Rebellion"
+            ], 
+            "title": "Musiker rebellieren gegen die Gema", 
+            "url": "http://blogs.wallstreetjournal.de/wsj-tech/2013/07/22/musiker-rebellieren-gegen-die-gema/"
+        }, 
+        {
+            "date": "2013-07-19 12:00", 
+            "language": "de", 
+            "source": "Freie Radios", 
+            "tags": [
+                "Radio", 
+                "Radio GFM", 
+                "Radio Unerh\u00f6rt Marburg (RUM)"
+            ], 
+            "title": "Radio GFM: #46 - C3S", 
+            "url": "http://freie-radios.net/57255"
+        }, 
+        {
+            "date": "2013-07-17 15:42", 
+            "language": "de", 
+            "source": "der Standard", 
+            "tags": [
+                "C3S", 
+                "GEMA", 
+                "Crowdfunding"
+            ], 
+            "title": "C3S: Alternativer Rechteverwerter sagt GEMA den Kampf an", 
+            "url": "http://derstandard.at/1373512913179/C3S-Alternativer-Rechteverwerter-sagt-GEMA-den-Kampf-an"
+        }, 
+        {
+            "date": "2013-07-17 12:40", 
+            "language": "de", 
+            "source": "heise online", 
+            "tags": [
+                "C3S", 
+                "GEMA", 
+                "Crowdfunding"
+            ], 
+            "title": "Geplante GEMA-Alternative C3S sammelt Gr\u00fcndungskapital", 
+            "url": "http://www.heise.de/newsticker/meldung/Geplante-GEMA-Alternative-C3S-sammelt-Gruendungskapital-1919252.html"
+        }, 
+        {
+            "date": "2013-07-17 12:00", 
+            "language": "en", 
+            "source": "Digital Music News", 
+            "title": "We're the Cultural Commons Collecting Society, an Alternative to GEMA...", 
+            "url": "http://www.digitalmusicnews.com/permalink/2013/20130717society"
+        }, 
+        {
+            "date": "2013-07-16 17:33", 
+            "language": "de", 
+            "source": "netzpolitik", 
+            "title": "C3S: \u201c\u00dcber GEMA meckern reicht nicht, wir wollen, dass sich tats\u00e4chlich etwas ver\u00e4ndert\u201d", 
+            "url": "https://netzpolitik.org/2013/c3s-uber-gema-meckern-reicht-nicht-wir-wollen-dass-sich-tatsachlich-etwas-verandert/"
+        }, 
+        {
+            "date": "2013-07-16 13:09", 
+            "language": "de", 
+            "source": "netzpolitik", 
+            "title": "C3S: faire Alternative zur GEMA per Crowdsourcing finanzieren", 
+            "url": "https://netzpolitik.org/2013/c3s-faire-alternative-zur-gema-per-crowdsourcing-finanzieren/"
+        }, 
+        {
+            "date": "2013-07-16 12:07", 
+            "language": "de", 
+            "source": "MusikWoche mediabiz", 
+            "title": "C3S will durch Crowdfunding 200.000 Euro sammeln", 
+            "url": "http://www.mediabiz.de/musik/news/c3s-will-durch-crowdfunding-200-000-euro-sammeln/335479"
+        }, 
+        {
+            "date": "2013-07-15 19:40", 
+            "language": "de", 
+            "source": "other", 
+            "tags": [
+                "C3S", 
+                "GEMA", 
+                "Crowdfunding"
+            ], 
+            "title": "Neue Initiative C3S will Schluss machen mit dem GEMA-Monopol", 
+            "url": "http://www.klatsch-tratsch.de/2013/07/15/neue-initiative-will-schluss-machen-mit-dem-gema-monopol"
+        }, 
+        {
+            "date": "2013-07-15 18:46", 
+            "language": "de", 
+            "source": "other", 
+            "tags": [
+                "C3S", 
+                "GEMA", 
+                "Crowdfunding"
+            ], 
+            "title": "C3S Crowdfunding gestartet! Die GEMA-Alternative macht Ernst!", 
+            "url": "http://www.svenscholz.de/index.php/c3s-crowdfunding-gestartet-die-gema-alternative-macht-ernst/"
+        }, 
+        {
+            "date": "2013-07-02 12:00", 
+            "language": "de", 
+            "source": "Der Postillon", 
+            "title": "GEMA erhebt Geb\u00fchren auf PRISM- und Tempora-Telefonmitschnitte", 
+            "url": "http://www.der-postillon.com/2013/07/gema-erhebt-gebuhren-auf-prism-und.html"
+        }, 
+        {
+            "date": "2013-06-24 00:00", 
+            "language": "de", 
+            "source": "futurezone", 
+            "title": "Deutscher gr\u00fcndet GEMA-Alternative C3S", 
+            "url": "http://futurezone.at/netzpolitik/16645-deutscher-gruendet-gema-alternative-c3s.php"
+        }, 
+        {
+            "date": "2013-06-22 12:00", 
+            "language": "de", 
+            "source": "Telemedicus", 
+            "title": "C3S tritt in Gr\u00fcndungsphase", 
+            "url": "http://www.telemedicus.info/article/2596-C3S-tritt-in-Gruendungsphase.html"
+        }, 
+        {
+            "date": "2013-06-22 11:27", 
+            "language": "de", 
+            "source": "gulli", 
+            "title": "C3S: Gr\u00fcndungsphase f\u00fcr GEMA-Alternative ist angelaufen", 
+            "url": "http://www.gulli.com/news/21849-c3s-gruendungsphase-fuer-gema-alternative-ist-angelaufen-2013-06-22"
+        }, 
+        {
+            "date": "2013-06-14 14:30", 
+            "language": "de", 
+            "source": "futurezone", 
+            "tags": [
+                "Urheberrecht"
+            ], 
+            "title": "Handgreiflichkeiten bei Urheberrechtskonferenz", 
+            "url": "http://futurezone.at/digitallife/16493-handgreiflichkeiten-bei-urheberrechtskonferenz.php"
+        }, 
+        {
+            "date": "2013-06-07 09:02", 
+            "language": "de", 
+            "source": "heise online", 
+            "tags": [
+                "Urheberrecht", 
+                "C3S"
+            ], 
+            "title": "Verbrauchersch\u00fctzer: Das Urheberrecht muss zum T\u00dcV", 
+            "url": "http://www.heise.de/newsticker/meldung/Verbraucherschuetzer-Das-Urheberrecht-muss-zum-TUeV-1884275.html"
+        }, 
+        {
+            "date": "2013-06-05 06:00", 
+            "language": "de", 
+            "source": "futurezone", 
+            "tags": [
+                "C3S", 
+                "GEMA", 
+                "Dr. Motte"
+            ], 
+            "title": "\"Wir brauchen neue Verwertungsgesellschaften\"", 
+            "url": "http://futurezone.at/netzpolitik/16141-wir-brauchen-neue-verwertungsgesellschaften.php"
+        }, 
+        {
+            "date": "2013-03-23 13:23", 
+            "language": "de", 
+            "source": "Telepolis", 
+            "tags": [
+                "C3S", 
+                "Content-Industrie"
+            ], 
+            "title": "Die digitale B\u00fcchse der Pandora", 
+            "url": "http://www.heise.de/tp/artikel/38/38652/1.html"
+        }, 
+        {
+            "date": "2013-01-13 13:42", 
+            "language": "de", 
+            "source": "Stern", 
+            "tags": [
+                "Gema", 
+                "YouTube"
+            ], 
+            "title": "Gema-Klage gegen Youtube - Neues f\u00fcr den Sperrbezirk", 
+            "url": "http://www.stern.de/digital/online/gema-klage-gegen-youtube-neues-fuer-den-sperrbezirk-1962099.html"
+        }, 
+        {
+            "date": "2012-11-05 18:12", 
+            "language": "de", 
+            "source": "golem", 
+            "tags": [
+                "GEMA", 
+                "Petitionsausschuss", 
+                "GEMA-Vermutung"
+            ], 
+            "title": "Bundesregierung h\u00e4lt an Gema-Vermutung fest", 
+            "url": "http://www.golem.de/news/petitionsausschuss-bundesregierung-haelt-an-gema-vermutung-fest-1211-95531.html"
+        }, 
+        {
+            "date": "2012-10-18 10:54", 
+            "language": "de", 
+            "source": "Telepolis", 
+            "title": "Petition gegen GEMA-Vermutung nimmt erste H\u00fcrde", 
+            "url": "http://www.heise.de/tp/blogs/6/153007"
+        }, 
+        {
+            "date": "2012-10-01 00:00", 
+            "language": "de", 
+            "source": "GEMA", 
+            "title": "C3S \u2013 eine alternative Verwertungsgesellschaft?", 
+            "url": "https://www.gema.de/nl/102012/mitgliedernews/c3s.html"
+        }, 
+        {
+            "date": "2012-08-08 07:25", 
+            "language": "de", 
+            "source": "heise online", 
+            "title": "Evoke 2012: Demo-Party mit Pre-Show und ohne GEMA", 
+            "url": "http://www.heise.de/newsticker/meldung/Evoke-2012-Demo-Party-mit-Pre-Show-und-ohne-GEMA-1662510.html"
+        }, 
+        {
+            "date": "2012-08-06 18:30", 
+            "language": "de", 
+            "source": "Telepolis", 
+            "tags": [
+                "Gema", 
+                "EuGH"
+            ], 
+            "title": "Die Zahnl\u00fccke der GEMA - Deutsche Wahrnehmungsgesellschaft GEMA ignoriert EuGH-Urteil", 
+            "url": "http://www.heise.de/tp/blogs/6/152535"
+        }, 
+        {
+            "date": "2012-08-05 17:07", 
+            "language": "de", 
+            "source": "Spiegel Online", 
+            "tags": [
+                "Gema", 
+                "Club"
+            ], 
+            "title": "Streit&nbsp;um Gema-Tarife: Kalter Krieg im Club", 
+            "url": "http://www.spiegel.de/kultur/musik/aufruhr-um-neue-gema-tarife-und-angst-vor-clubsterben-a-846312.html"
+        }, 
+        {
+            "date": "2012-07-31 14:56", 
+            "language": "de", 
+            "source": "netzpolitik", 
+            "title": "Bundesregierung: Webseiten lahmlegen ist keine Online-Demonstration, lieber Massen-E-Mail-Proteste", 
+            "url": "https://netzpolitik.org/2012/bundesregierung-webseiten-lahmlegen-ist-keine-online-demonstration-lieber-massen-e-mail-proteste/"
+        }, 
+        {
+            "date": "2012-07-30 16:17", 
+            "language": "de", 
+            "source": "heise online", 
+            "title": "Bundesregierung: GEMA-DDoS war keine virtuelle Demonstration", 
+            "url": "http://www.heise.de/newsticker/meldung/Bundesregierung-GEMA-DDoS-war-keine-virtuelle-Demonstration-1655546.html"
+        }, 
+        {
+            "date": "2012-07-28 18:34", 
+            "language": "de", 
+            "source": "Telepolis", 
+            "title": "Jule Neigel beklagt \"Propaganda\" der Piratenpartei", 
+            "url": "http://www.heise.de/tp/blogs/6/152483"
+        }, 
+        {
+            "date": "2012-07-26 12:00", 
+            "language": "de", 
+            "source": "Frankfurter Rundschau", 
+            "title": "Gema-Tagebuch: Gema macht Ausnahme f\u00fcr Karnevalsvereine", 
+            "url": "http://www.fr-online.de/medien/gema-tagebuch-gema-macht-ausnahme-fuer-karnevalsvereine%2C1473342%2C16716214.html"
+        }, 
+        {
+            "date": "2012-07-24 10:43", 
+            "language": "de", 
+            "source": "Telepolis", 
+            "title": "GEMA zahlt 2012 unter Vorbehalt aus", 
+            "url": "http://www.heise.de/tp/blogs/6/152451"
+        }, 
+        {
+            "date": "2012-07-16 16:02", 
+            "language": "de", 
+            "source": "golem", 
+            "title": "Drei Prozent Festplattenplatz f\u00fcr Musik reicht f\u00fcr Erh\u00f6hung", 
+            "url": "http://www.golem.de/news/verwertungsgesellschaft-drei-prozent-festplattenplatz-fuer-musik-reicht-fuer-erhoehung-1207-93227.html"
+        }, 
+        {
+            "date": "2012-07-16 14:50", 
+            "language": "de", 
+            "source": "futurezone", 
+            "title": "Studie stellt Festplattenabgabe in Frage", 
+            "url": "http://futurezone.at/netzpolitik/10115-studie-stellt-festplattenabgabe-in-frage.php"
+        }, 
+        {
+            "date": "2012-07-14 16:32", 
+            "language": "de", 
+            "source": "netzpolitik", 
+            "title": "Alternative Verwertungsgesellschaft: Neues von der Cultural Commons Collecting Society", 
+            "url": "https://netzpolitik.org/2012/alternative-verwertungsgesellschaft-neues-von-der-cultural-commons-collecting-society/"
+        }, 
+        {
+            "date": "2012-07-11 14:10", 
+            "language": "de", 
+            "source": "heise online", 
+            "title": "Br\u00fcssel will Rechteverwerter an die Kandare nehmen", 
+            "url": "http://www.heise.de/newsticker/meldung/Bruessel-will-Rechteverwerter-an-die-Kandare-nehmen-1636652.html"
+        }, 
+        {
+            "date": "2012-07-11 12:15", 
+            "language": "de", 
+            "source": "golem", 
+            "title": "EU will Gema &amp; Co. st\u00e4rker disziplinieren", 
+            "url": "http://www.golem.de/news/verwertungsgesellschaften-eu-will-gema-co-staerker-disziplinieren-1207-93125.html"
+        }, 
+        {
+            "date": "2012-07-10 11:47", 
+            "language": "de", 
+            "source": "netzpolitik", 
+            "title": "\u00d6sterreichische Verwertungsgesellschaft Austro Mechana geht wegen Anonymous offline", 
+            "url": "https://netzpolitik.org/2012/osterreichische-verwertungsgesellschaft-austro-mechana-geht-wegen-anonymous-offline/"
+        }, 
+        {
+            "date": "2012-07-09 12:06", 
+            "language": "de", 
+            "source": "golem", 
+            "title": "\"BKA hat uns ins offene Messer laufen lassen\"", 
+            "url": "http://www.golem.de/news/anonymous-vs-bka-bka-hat-uns-ins-offene-messer-laufen-lassen-1207-93059.html"
+        }, 
+        {
+            "date": "2012-07-02 11:55", 
+            "language": "de", 
+            "source": "Telepolis", 
+            "title": "Versteckte Bohlensteuer", 
+            "url": "http://www.heise.de/tp/blogs/6/152319"
+        }, 
+        {
+            "date": "2012-06-30 22:43", 
+            "language": "de", 
+            "source": "netzpolitik", 
+            "title": "Gema will Klarnamen oder Geld f\u00fcr CC-Musik", 
+            "url": "https://netzpolitik.org/2012/gema-will-klarnamen-oder-geld-fur-cc-musik/"
+        }, 
+        {
+            "date": "2012-06-26 17:42", 
+            "language": "de", 
+            "source": "Spiegel Online", 
+            "title": "Clubs protestieren gegen Gema: F\u00fcnf Minuten Saturday Night Stille", 
+            "url": "http://www.spiegel.de/kultur/musik/neue-gema-tarife-discotheken-fuerchten-clubsterben-und-protestieren-a-841067.html"
+        }, 
+        {
+            "date": "2012-06-26 13:05", 
+            "language": "de", 
+            "source": "Telepolis", 
+            "title": "GEMA will Geld f\u00fcr Creative-Commons-St\u00fcck", 
+            "url": "http://www.heise.de/tp/blogs/6/152279"
+        }, 
+        {
+            "date": "2012-06-25 15:04", 
+            "language": "de", 
+            "source": "golem", 
+            "title": "\"Die Hausdurchsuchungen waren gewagt\"", 
+            "url": "http://www.golem.de/news/bka-vs-anonymous-die-hausdurchsuchungen-waren-gewagt-1206-92735.html"
+        }, 
+        {
+            "date": "2012-06-24 11:32", 
+            "language": "de", 
+            "source": "Telepolis", 
+            "title": "Killt die GEMA die Berliner Clubszene?", 
+            "url": "http://www.heise.de/tp/artikel/37/37144/1.html"
+        }, 
+        {
+            "date": "2012-06-19 11:45", 
+            "language": "de", 
+            "source": "heise online", 
+            "title": "Gema stellt keine Strafanzeige gegen Hacker", 
+            "url": "http://www.heise.de/newsticker/meldung/Gema-stellt-keine-Strafanzeige-gegen-Hacker-1620735.html"
+        }, 
+        {
+            "date": "2012-06-11 00:29", 
+            "language": "de", 
+            "source": "Telepolis", 
+            "tags": [
+                "Club", 
+                "GEMA"
+            ], 
+            "title": "\"Bei uns ist die Situation nat\u00fcrlich pervers\"", 
+            "url": "http://www.heise.de/tp/artikel/37/37068/1.html"
+        }, 
+        {
+            "date": "2012-06-08 13:14", 
+            "language": "de", 
+            "source": "Spiegel Online", 
+            "title": "Urheberrecht: Piraten und Gema sitzen in einem Boot", 
+            "url": "http://www.spiegel.de/netzwelt/netzpolitik/axel-metzger-zum-urheberrecht-piraten-und-gema-sitzen-in-einem-boot-a-837657.html"
+        }, 
+        {
+            "date": "2012-06-05 15:57", 
+            "language": "de", 
+            "source": "netzpolitik", 
+            "title": "Urheberrechtsabgaben auf Hochzeiten in Kanada \u2013 und hier?", 
+            "url": "https://netzpolitik.org/2012/urheberrechtsabgaben-auf-hochzeiten-in-kanada-und-hier/"
+        }, 
+        {
+            "date": "2012-05-25 22:23", 
+            "language": "de", 
+            "source": "gulli", 
+            "title": "\"Wir k\u00f6nnen nichts dazu\" - Stellungnahme der GEMA zur Pauschalabgabe", 
+            "url": "http://www.gulli.com/news/18883-wir-koennen-nichts-dazu-stellungnahme-der-gema-zur-pauschalabgabe-2012-05-25"
+        }, 
+        {
+            "date": "2012-05-25 13:57", 
+            "language": "de", 
+            "source": "golem", 
+            "title": "Gema und Youtube - der Kampf ums Urheberrecht", 
+            "url": "http://www.golem.de/news/imho-gema-und-youtube-der-kampf-ums-urheberrecht-1205-92076.html"
+        }, 
+        {
+            "date": "2012-05-24 17:36", 
+            "language": "de", 
+            "source": "heise online", 
+            "tags": [
+                "GEMA", 
+                "ZP\u00dc"
+            ], 
+            "title": "ZP\u00dc erh\u00f6ht Abgaben auf USB-Sticks und Speicherkarten drastisch", 
+            "url": "http://www.heise.de/newsticker/meldung/ZPUe-erhoeht-Abgaben-auf-USB-Sticks-und-Speicherkarten-drastisch-1583790.html"
+        }, 
+        {
+            "date": "2012-05-24 14:15", 
+            "language": "de", 
+            "source": "Telepolis", 
+            "title": "1.850 Prozent Tariferh\u00f6hung", 
+            "url": "http://www.heise.de/tp/blogs/6/152059"
+        }, 
+        {
+            "date": "2012-05-23 20:15", 
+            "language": "de", 
+            "source": "heise online", 
+            "title": "Online-Musik: GEMA kann BMG-Katalog europaweit lizenzieren", 
+            "url": "http://www.heise.de/newsticker/meldung/Online-Musik-GEMA-kann-BMG-Katalog-europaweit-lizenzieren-1583096.html"
+        }, 
+        {
+            "date": "2012-05-23 00:00", 
+            "language": "de", 
+            "source": "delamar", 
+            "tags": [
+                "Gema", 
+                "C3S", 
+                "Alternative", 
+                "Sigint"
+            ], 
+            "title": "C3S \u2013 Alternative zur GEMA?", 
+            "url": "http://www.delamar.de/musikbusiness/c3s-14932/?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A%20delamar%20%28Homerecording%20%26%20Musikproduktion%20-%20delamar.de%29"
+        }, 
+        {
+            "date": "2012-05-21 14:24", 
+            "language": "de", 
+            "source": "heise online", 
+            "tags": [
+                "Gema", 
+                "YouTube"
+            ], 
+            "title": "GEMA legt im YouTube-Streit Berufung ein", 
+            "url": "http://www.heise.de/newsticker/meldung/GEMA-legt-im-YouTube-Streit-Berufung-ein-1580860.html"
+        }, 
+        {
+            "date": "2012-05-21 13:03", 
+            "language": "de", 
+            "source": "heise online", 
+            "tags": [
+                "C3S", 
+                "GEMA", 
+                "SIGINT"
+            ], 
+            "title": "Konkurrenz f\u00fcr die GEMA ", 
+            "url": "http://www.heise.de/newsticker/meldung/Konkurrenz-fuer-die-GEMA-1580419.html"
+        }, 
+        {
+            "date": "2012-05-20 12:00", 
+            "language": "de", 
+            "source": "taz", 
+            "tags": [
+                "Gema", 
+                "Creative Commons", 
+                "Sigint", 
+                "C3S", 
+                "Konkurrenz"
+            ], 
+            "title": "Eine Gema f\u00fcr Freie", 
+            "url": "http://taz.de/Creative-Commons/!93676/"
+        }, 
+        {
+            "date": "2012-05-19 11:20", 
+            "language": "de", 
+            "source": "golem", 
+            "tags": [
+                "C3S", 
+                "Gema"
+            ], 
+            "title": "C3S statt Gema", 
+            "url": "http://www.golem.de/news/urheberrecht-cs3-statt-gema-1205-91904.html"
+        }, 
+        {
+            "date": "2012-05-14 16:13", 
+            "language": "de", 
+            "source": "Telepolis", 
+            "tags": [
+                "GEMA", 
+                "PRS for Music", 
+                "VG Wort"
+            ], 
+            "title": "Die F\u00fcnf-Prozent-Gesellschaft", 
+            "url": "http://www.heise.de/tp/artikel/36/36909/1.html"
+        }, 
+        {
+            "date": "2012-05-10 11:15", 
+            "language": "de", 
+            "source": "Telepolis", 
+            "tags": [
+                "GEMA", 
+                "YouTube"
+            ], 
+            "title": "Selbst ein Bein gestellt", 
+            "url": "http://www.heise.de/tp/artikel/36/36901/1.html"
+        }, 
+        {
+            "date": "2012-04-22 12:16", 
+            "language": "de", 
+            "source": "heise online", 
+            "tags": [
+                "Gema", 
+                "YouTube"
+            ], 
+            "title": "Gema-Chef sieht YouTube im Handlungszwang", 
+            "url": "http://www.heise.de/newsticker/meldung/Gema-Chef-sieht-YouTube-im-Handlungszwang-1545114.html"
+        }, 
+        {
+            "date": "2012-04-22 00:26", 
+            "language": "de", 
+            "source": "Telepolis", 
+            "tags": [
+                "Gema", 
+                "YouTube"
+            ], 
+            "title": "GEMA gegen YOUTUBE", 
+            "url": "http://www.heise.de/tp/artikel/36/36809/1.html"
+        }, 
+        {
+            "date": "2012-04-20 17:27", 
+            "language": "de", 
+            "source": "heise online", 
+            "tags": [
+                "Gema", 
+                "YouTube"
+            ], 
+            "title": "YouTube bietet Gema Verhandlungen an", 
+            "url": "http://www.heise.de/newsticker/meldung/YouTube-bietet-Gema-Verhandlungen-an-1544638.html"
+        }, 
+        {
+            "date": "2012-04-20 14:07", 
+            "language": "de", 
+            "source": "heise online", 
+            "tags": [
+                "Gema", 
+                "YouTube"
+            ], 
+            "title": "Landgericht: YouTube muss Musiktitel aus dem Netz nehmen ", 
+            "url": "http://www.heise.de/newsticker/meldung/Landgericht-YouTube-muss-Musiktitel-aus-dem-Netz-nehmen-2-Update-1544381.html"
+        }, 
+        {
+            "date": "2012-04-18 15:53", 
+            "language": "de", 
+            "source": "Spiegel Online", 
+            "tags": [
+                "\u00c4rzte", 
+                "YouTube"
+            ], 
+            "title": "Warum das neue \u00c4rzte-Album komplett auf YouTube l\u00e4uft", 
+            "url": "http://www.spiegel.de/netzwelt/web/netzwelt-ticker-warum-das-neue-aerzte-album-komplett-auf-youtube-laeuft-a-828244.html"
+        }, 
+        {
+            "date": "2012-03-14 16:40", 
+            "language": "de", 
+            "source": "der Standard", 
+            "tags": [
+                "Belgien", 
+                "SABAM", 
+                "AKM"
+            ], 
+            "title": "Rechteverwerter fordert Geb\u00fchren f\u00fcr Vorlesen aus Kinderb\u00fcchern", 
+            "url": "http://derstandard.at/1331207329269/Rechteverwerter-fordert-Gebuehren-fuer-Vorlesen-aus-Kinderbuechern"
+        }, 
+        {
+            "date": "2012-03-13 16:00", 
+            "language": "de", 
+            "source": "heise online", 
+            "tags": [
+                "Belgien", 
+                "SABAM"
+            ], 
+            "title": "Belgischer Rechteverwerter verlangt Vorlese-Geb\u00fchren ", 
+            "url": "http://www.heise.de/newsticker/meldung/Belgischer-Rechteverwerter-verlangt-Vorlese-Gebuehren-1470855.html"
+        }, 
+        {
+            "date": "2012-03-01 08:23", 
+            "language": "de", 
+            "source": "Telepolis", 
+            "title": "Tierlaute als \"Geistiges Eigentum\"", 
+            "url": "http://www.heise.de/tp/artikel/36/36501/1.html"
+        }, 
+        {
+            "date": "2012-02-01 09:15", 
+            "language": "de", 
+            "source": "heise online", 
+            "tags": [
+                "Gema", 
+                "Creative Commons"
+            ], 
+            "title": "GEMA bleibt beim Nein zu Creative-Commons-Lizenzen", 
+            "url": "http://www.heise.de/newsticker/meldung/GEMA-bleibt-beim-Nein-zu-Creative-Commons-Lizenzen-1425869.html"
+        }, 
+        {
+            "date": "2011-11-14 00:53", 
+            "language": "de", 
+            "source": "Telepolis", 
+            "tags": [
+                "GEMA", 
+                "Creative Commons"
+            ], 
+            "title": "Gema will Geld f\u00fcr Creative-Commons-Veranstaltung", 
+            "url": "http://www.heise.de/tp/artikel/35/35869/1.html"
+        }, 
+        {
+            "date": "2011-02-23 11:33", 
+            "language": "de", 
+            "source": "Telepolis", 
+            "tags": [
+                "GEMA", 
+                "Kinderg\u00e4rten"
+            ], 
+            "title": "Kindergarten-Gema \u00fcber Pauschalvertrag?", 
+            "url": "http://www.heise.de/tp/artikel/34/34247/1.html"
+        }, 
+        {
+            "date": "2011-02-18 08:29", 
+            "language": "de", 
+            "source": "Telepolis", 
+            "tags": [
+                "Belgien", 
+                "SABAM", 
+                "GEMA", 
+                "ZP\u00dc"
+            ], 
+            "title": "Belgische Gema kassiert f\u00fcr H\u00e4ndetrockner und Lebensmittel", 
+            "url": "http://www.heise.de/tp/artikel/34/34218/1.html"
+        }, 
+        {
+            "date": "2010-12-29 18:45", 
+            "language": "de", 
+            "source": "Stefan Niggemeier", 
+            "tags": [
+                "GEMA", 
+                "Kinderg\u00e4rten"
+            ], 
+            "title": "Der Kindergarten als rechtsfreier Raum", 
+            "url": "http://www.stefan-niggemeier.de/blog/der-kindergarten-als-rechtsfreier-raum/"
+        }, 
+        {
+            "date": "2010-12-06 12:00", 
+            "language": "de", 
+            "source": "merkur-online", 
+            "tags": [
+                "GEMA", 
+                "Weihnachtslieder"
+            ], 
+            "title": "Weihnachtslieder: Gema bittet Kitas zur Kasse", 
+            "url": "http://www.merkur-online.de/aktuelles/bayern/weihnachtslieder-gema-bittet-kitas-kasse-1037111.html"
+        }, 
+        {
+            "date": "2010-12-02 02:31", 
+            "language": "de", 
+            "source": "Telepolis", 
+            "tags": [
+                "GEMA", 
+                "Weihnachtslieder", 
+                "Kinderg\u00e4rten"
+            ], 
+            "title": "Nikolaus, Christkind und Tannenbaum befreit", 
+            "url": "http://www.heise.de/tp/artikel/33/33764/1.html"
+        }, 
+        {
+            "date": "2010-11-25 15:20", 
+            "language": "de", 
+            "source": "Telepolis", 
+            "tags": [
+                "GEMA", 
+                "Weihnachtslieder"
+            ], 
+            "title": "Gema sorgt f\u00fcr Ruhe - Der Aachener Weihnachtsmarkt findet dieses Jahr ohne Musik statt", 
+            "url": "http://www.heise.de/tp/blogs/6/148813"
+        }, 
+        {
+            "date": "2010-05-24 13:31", 
+            "language": "de", 
+            "source": "heise online", 
+            "tags": [
+                "Creative Commons", 
+                "Sigint"
+            ], 
+            "title": "SIGINT: Creative Commons als Nische", 
+            "url": "http://www.heise.de/newsticker/meldung/SIGINT-Creative-Commons-als-Nische-1006119.html"
+        }, 
+        {
+            "date": "2010-02-13 12:00", 
+            "language": "de", 
+            "source": "Der Spiegel (Print)", 
+            "tags": [
+                "Gema", 
+                "Blues-Mobil"
+            ], 
+            "title": "Melodien f\u00fcr Millionen ", 
+            "url": "http://www.spiegel.de/spiegel/print/d-69065860.html"
+        }, 
+        {
+            "date": "2010-02-01 23:27", 
+            "language": "de", 
+            "source": "DerWesten", 
+            "tags": [
+                "GEMA", 
+                "Weihnachtslieder"
+            ], 
+            "title": "Dortmunder Verein muss f\u00fcr Kinderlied an GEMA zahlen", 
+            "url": "http://www.derwesten.de/staedte/dortmund/dortmunder-verein-muss-fuer-kinderlied-an-gema-zahlen-id2469459.html"
+        }, 
+        {
+            "date": "2010-01-23 11:51", 
+            "language": "de", 
+            "source": "Ruhrbarone", 
+            "tags": [
+                "GEMA", 
+                "Weihnachtslieder"
+            ], 
+            "title": "GEMA: Kinder zahlen f\u00fcr Weihnachtslieder", 
+            "url": "http://www.ruhrbarone.de/gema-kinder-zahlen-fur-weihnachtslieder/"
+        }, 
+        {
+            "date": "2010-01-22 17:05", 
+            "language": "de", 
+            "source": "RuhrNachrichten", 
+            "tags": [
+                "GEMA", 
+                "Weihnachtslieder"
+            ], 
+            "title": "Weihnachtslieder kosten Holzener Kinder 23,01 Euro", 
+            "url": "http://www.ruhrnachrichten.de/lokales/dortmund/sueden/Weihnachtslieder-kosten-Holzener-Kinder-23-01-Euro;art2575%2C795778"
+        }, 
+        {
+            "date": "2006-01-27 14:30", 
+            "language": "de", 
+            "source": "heise online", 
+            "tags": [
+                "ZP\u00dc", 
+                "GEMA", 
+                "VG Wort"
+            ], 
+            "title": "ZP\u00dc klagt von PC-Herstellern Urheberrechtsabgabe ein", 
+            "url": "http://www.heise.de/newsticker/meldung/ZPue-klagt-von-PC-Herstellern-Urheberrechtsabgabe-ein-169911.html"
+        }, 
+        {
+            "date": "2001-05-11 12:01", 
+            "language": "de", 
+            "source": "Telepolis", 
+            "title": "Urheberrechtsausgleich oder Subventionssteuer? (Teil 2)", 
+            "url": "http://www.heise.de/tp/artikel/7/7597/1.html"
+        }, 
+        {
+            "date": "2001-05-09 22:06", 
+            "language": "de", 
+            "source": "Telepolis", 
+            "title": "Urheberrechtsausgleich oder Subventionssteuer? (Teil 1)", 
+            "url": "http://www.heise.de/tp/artikel/7/7586/1.html"
+        }, 
+        {
+            "date": "1951-07-04 12:00", 
+            "language": "de", 
+            "source": "Der Spiegel (Print)", 
+            "tags": [
+                "GEMA"
+            ], 
+            "title": "GEMA ist an allem schuld", 
+            "url": "http://www.spiegel.de/spiegel/print/d-29194282.html"
         }
     ]
 }
