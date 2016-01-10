@@ -6,7 +6,6 @@
             "source": "MusikWoche mediabiz", 
             "tags": [
                 "Verwertungsgesellschaftengesetz", 
-                "VGG", 
                 "Genossenschaftsrecht", 
                 "C3S"
             ], 
@@ -170,7 +169,7 @@
             "language": "de", 
             "source": "taz", 
             "tags": [
-                "Gema"
+                "GEMA"
             ], 
             "title": "Neue Wege im Paragrafendschungel", 
             "url": "http://www.taz.de/Konkurrenz-fuer-die-Gema/!136441/"
@@ -223,7 +222,7 @@
             "source": "futurezone", 
             "tags": [
                 "Bitkom", 
-                "Gema", 
+                "GEMA", 
                 "Video on Demand", 
                 "Online-Video"
             ], 
@@ -236,7 +235,7 @@
             "source": "heise online", 
             "tags": [
                 "Bitkom", 
-                "Gema", 
+                "GEMA", 
                 "Video on Demand", 
                 "Online-Video"
             ], 
@@ -357,7 +356,7 @@
             "language": "de", 
             "source": "Zeit", 
             "tags": [
-                "Urheberrechts"
+                "Urheberrecht"
             ], 
             "title": "\"Das Neue entsteht nie da, wo man es erwartet\"", 
             "url": "http://www.zeit.de/digital/internet/2014-03/urheberrechts-konflikte-monika-dommann/komplettansicht"
@@ -378,8 +377,8 @@
             "language": "de", 
             "source": "heise online", 
             "tags": [
-                "Gema", 
-                "Youtube"
+                "GEMA", 
+                "YouTube"
             ], 
             "title": "Gema gewinnt gegen YouTube: Sperrtafeln untersagt", 
             "url": "http://www.heise.de/newsticker/meldung/Gema-gewinnt-gegen-YouTube-Sperrtafeln-untersagt-2123719.html"
@@ -389,8 +388,8 @@
             "language": "de", 
             "source": "GEMA", 
             "tags": [
-                "Gema", 
-                "Youtube"
+                "GEMA", 
+                "YouTube"
             ], 
             "title": "Landgericht M\u00fcnchen urteilt: GEMA-Sperrtafeln auf YouTube sind rechtswidrig", 
             "url": "https://www.gema.de/presse/pressemitteilungen/presse-details/article/landgericht-muenchen-urteilt-gema-sperrtafeln-auf-youtube-sind-rechtswidrig.html"
@@ -400,7 +399,7 @@
             "language": "de", 
             "source": "heise online", 
             "tags": [
-                "Gema", 
+                "GEMA", 
                 "Smartphone", 
                 "Abgaben", 
                 "ZP\u00dc", 
@@ -415,7 +414,7 @@
             "language": "de", 
             "source": "Spiegel Online", 
             "tags": [
-                "Gema", 
+                "GEMA", 
                 "Smartphone", 
                 "Abgaben", 
                 "ZP\u00dc", 
@@ -479,7 +478,7 @@
             "language": "de", 
             "source": "Telepolis", 
             "tags": [
-                "Gema", 
+                "GEMA", 
                 "YouTube", 
                 "Video", 
                 "Einbettung"
@@ -492,7 +491,7 @@
             "language": "de", 
             "source": "golem", 
             "tags": [
-                "Gema", 
+                "GEMA", 
                 "YouTube", 
                 "Video", 
                 "Einbettung"
@@ -531,7 +530,7 @@
             "language": "de", 
             "source": "heise online", 
             "tags": [
-                "Gema", 
+                "GEMA", 
                 "Klage", 
                 "Piraten"
             ], 
@@ -543,8 +542,8 @@
             "language": "de", 
             "source": "coolibri", 
             "tags": [
-                "c3s", 
-                "gema"
+                "C3S", 
+                "GEMA"
             ], 
             "title": "C3S: Echte GEMA-Alternative?", 
             "url": "http://www.coolibri.de/redaktion/aktuelles/0114/c3s-echte-gema-alternative.html"
@@ -555,7 +554,7 @@
             "source": "heise online", 
             "tags": [
                 "YouTube", 
-                "Gema", 
+                "GEMA", 
                 "Tarif"
             ], 
             "title": "YouTube-Rivalen bekommen Tarif-Nachlass bei der Gema ", 
@@ -566,7 +565,7 @@
             "language": "nl", 
             "source": "Telegraaf", 
             "tags": [
-                "Weihnachtslied", 
+                "Weihnachtslieder", 
                 "Niederlande", 
                 "Schule"
             ], 
@@ -580,7 +579,7 @@
             "tags": [
                 "Bayerischer Rundfunk", 
                 "Space Night", 
-                "Gema"
+                "GEMA"
             ], 
             "title": "Web Community reanimierte TV-Kultsendung", 
             "url": "http://www.heise.de/tp/artikel/40/40363/1.html"
@@ -591,8 +590,8 @@
             "source": "heise online", 
             "tags": [
                 "EU", 
-                "online", 
-                "Gema"
+                "Online", 
+                "GEMA"
             ], 
             "title": "EU-Kompromiss zu Verwertungsgesellschaften: Online-Lizenzierung von Musik wird einfacher", 
             "url": "http://www.heise.de/newsticker/meldung/EU-Kompromiss-zu-Verwertungsgesellschaften-Online-Lizenzierung-von-Musik-wird-einfacher-2041044.html"
@@ -615,7 +614,7 @@
             "source": "Telepolis", 
             "tags": [
                 "Kritiker", 
-                "Gema", 
+                "GEMA", 
                 "Schiller-Preis"
             ], 
             "title": "Zu \"progressiv\" oder zu lang?", 
@@ -627,7 +626,7 @@
             "source": "Telepolis", 
             "tags": [
                 "C3S", 
-                "Gema", 
+                "GEMA", 
                 "Musikpiraten"
             ], 
             "title": "Verein Musikpiraten will GEMA erneut vor Gericht bringen", 
@@ -638,9 +637,9 @@
             "language": "de", 
             "source": "heise online", 
             "tags": [
-                "Gema", 
-                "BR", 
-                "Creative Commons"
+                "GEMA", 
+                "Bayerischer Rundfunk", 
+                "Creative-Commons-Lizenzen"
             ], 
             "title": "Space Night wegen US-Haushaltsstreit verschoben", 
             "url": "http://www.heise.de/newsticker/meldung/Space-Night-wegen-US-Haushaltsstreit-verschoben-1978657.html"
@@ -650,12 +649,12 @@
             "language": "de", 
             "source": "BLN.FM", 
             "tags": [
-                "gema", 
-                "tarif", 
-                "interview", 
-                "reform", 
-                "erfassung", 
-                "clubs"
+                "GEMA", 
+                "Tarif", 
+                "Interview", 
+                "Reform", 
+                "Erfassung", 
+                "Clubs"
             ], 
             "title": "GEMA und Clubs wer\u00adkeln an \u201eReform\u201d", 
             "url": "http://www.bln.fm/2013/10/gema-und-clubs-werkeln-an-reform/"
@@ -666,7 +665,7 @@
             "source": "Computerbild", 
             "tags": [
                 "C3S", 
-                "Gema", 
+                "GEMA", 
                 "Fehlinformation", 
                 "YouTube"
             ], 
@@ -679,7 +678,7 @@
             "source": "golem", 
             "tags": [
                 "C3S", 
-                "Gema"
+                "GEMA"
             ], 
             "title": "Was die Gema-Konkurrenz anders machen will", 
             "url": "http://www.golem.de/news/c3s-was-die-gema-konkurrenz-anders-machen-will-1309-101858.html"
@@ -692,7 +691,7 @@
                 "Video", 
                 "Interview", 
                 "C3S", 
-                "Gema"
+                "GEMA"
             ], 
             "title": "Gema-Alternative C3S - Interview mit Meik Michalke", 
             "url": "http://video.golem.de/audio-video/11746/gema-alternative-c3s-interview-mit-meik-michalke.html"
@@ -703,7 +702,7 @@
             "source": "Stern", 
             "tags": [
                 "C3S", 
-                "Gema"
+                "GEMA"
             ], 
             "title": "Die Gema-Rebellen formieren sich", 
             "url": "http://www.stern.de/wirtschaft/news/neue-verwertungsgesellschaft-die-gema-rebellen-formieren-sich-2061088.html"
@@ -723,7 +722,7 @@
             "language": "de", 
             "source": "Telepolis", 
             "tags": [
-                "youtube", 
+                "YouTube", 
                 "Schweiz", 
                 "Suisa"
             ], 
@@ -736,7 +735,7 @@
             "source": "netzpolitik", 
             "tags": [
                 "C3S", 
-                "Gema"
+                "GEMA"
             ], 
             "title": "GEMA-Alternative: Die C3S ist gegr\u00fcndet", 
             "url": "https://netzpolitik.org/2013/gema-alternative-die-c3s-ist-gegruendet/"
@@ -747,7 +746,7 @@
             "source": "golem", 
             "tags": [
                 "C3S", 
-                "Gema"
+                "GEMA"
             ], 
             "title": "Gema-Alternative gegr\u00fcndet", 
             "url": "http://www.golem.de/news/c3s-gema-alternative-gegruendet-1309-101810.html"
@@ -767,8 +766,8 @@
             "language": "de", 
             "source": "heise online", 
             "tags": [
-                "c3s", 
-                "gema"
+                "C3S", 
+                "GEMA"
             ], 
             "title": "GEMA-Alternative C3S gegr\u00fcndet", 
             "url": "http://www.heise.de/newsticker/meldung/GEMA-Alternative-C3S-gegruendet-1967097.html"
@@ -778,7 +777,7 @@
             "language": "de", 
             "source": "heise online", 
             "tags": [
-                "youtube", 
+                "YouTube", 
                 "Schweiz", 
                 "Suisa"
             ], 
@@ -791,7 +790,7 @@
             "source": "Berliner Zeitung", 
             "tags": [
                 "C3S", 
-                "Gema"
+                "GEMA"
             ], 
             "title": "Cultural Commons Collecting Society C3S: Alternative zur Gema gegr\u00fcndet", 
             "url": "http://www.berliner-zeitung.de/kultur/cultural-commons-collecting-society-c3s-alternative-zur-gema-gegruendet%2C10809150%2C24440926.html"
@@ -802,7 +801,7 @@
             "source": "Telemedicus", 
             "tags": [
                 "Freie Musik", 
-                "c3s"
+                "C3S"
             ], 
             "title": "C3S: Geld f\u00fcr freie Musik?", 
             "url": "http://www.telemedicus.info/article/2642-C3S-Geld-fuer-freie-Musik.html"
@@ -812,8 +811,8 @@
             "language": "de", 
             "source": "FAZ", 
             "tags": [
-                "Gema", 
-                "C3s"
+                "GEMA", 
+                "C3S"
             ], 
             "title": "Legaler Tausch schlie\u00dft Profit nicht aus", 
             "url": "http://www.faz.net/aktuell/feuilleton/medien/gema-alternative-c3s-legaler-tausch-schliesst-profit-nicht-aus-12578461.html"
@@ -825,7 +824,7 @@
             "tags": [
                 "Urheberrecht", 
                 "VG Mudikedition", 
-                "katholische Kirche"
+                "Katholische Kirche"
             ], 
             "title": "Illegale Notenkopien bei der katholischen Kirche", 
             "url": "http://www.heise.de/newsticker/meldung/Illegale-Notenkopien-bei-der-katholischen-Kirche-1937475.html"
@@ -837,7 +836,7 @@
             "tags": [
                 "Urheberrecht", 
                 "VG Mudikedition", 
-                "katholische Kirche"
+                "Katholische Kirche"
             ], 
             "title": "Katholische Kirche gesteht 700.000 illegale Kopien", 
             "url": "http://www.zeit.de/kultur/musik/2013-08/illegale-noten-katholische-kirche"
@@ -847,9 +846,9 @@
             "language": "de", 
             "source": "heise online", 
             "tags": [
-                "c3s", 
-                "gema", 
-                "crowdfunding"
+                "C3S", 
+                "GEMA", 
+                "Crowdfunding"
             ], 
             "title": "NRW-F\u00f6rderung f\u00fcr Projekt der GEMA-Alternative C3S", 
             "url": "http://www.heise.de/newsticker/meldung/NRW-Foerderung-fuer-Projekt-der-GEMA-Alternative-C3S-1936471.html"
@@ -860,7 +859,7 @@
             "source": "Deutschlandradio", 
             "tags": [
                 "C3S", 
-                "Gema", 
+                "GEMA", 
                 "Podcast"
             ], 
             "title": "Die GEMA-Rebellen", 
@@ -883,7 +882,7 @@
             "source": "Deutschlandradio", 
             "tags": [
                 "C3S", 
-                "Gema"
+                "GEMA"
             ], 
             "title": "Fairer als die Gema", 
             "url": "http://www.dradiowissen.de/creative-commons-fairer-als-die-gema.36.de.html?dram:article_id=256554"
@@ -894,7 +893,7 @@
             "source": "DerWesten", 
             "tags": [
                 "C3S", 
-                "Gema"
+                "GEMA"
             ], 
             "title": "Neue Musikverwertungsgesellschaft C3S soll der Gema Konkurrenz machen", 
             "url": "http://www.derwesten.de/kultur/neue-musikverwertungsgesellschaft-c3s-soll-der-gema-konkurrenz-machen-id8278633.html"
@@ -906,7 +905,7 @@
             "tags": [
                 "C3S", 
                 "Crowdfunding", 
-                "Gema"
+                "GEMA"
             ], 
             "title": "GEMA-Alternative C3S sammelt 80.000 Euro", 
             "url": "http://futurezone.at/netzpolitik/17477-gema-alternative-c3s-sammelt-80-000-euro.php"
@@ -918,7 +917,7 @@
             "tags": [
                 "C3S", 
                 "Crowdfunding", 
-                "Gema"
+                "GEMA"
             ], 
             "title": "C3S: GEMA-Alternative erreicht Zwischenziel", 
             "url": "http://www.chip.de/news/C3S-GEMA-Alternative-erreicht-Zwischenziel_63473361.html"
@@ -930,7 +929,7 @@
             "tags": [
                 "C3S", 
                 "Crowdfunding", 
-                "Gema"
+                "GEMA"
             ], 
             "title": "GEMA-Konkurrent C3S schafft erstes Etappenziel", 
             "url": "http://winfuture.de/news%2C77238.html"
@@ -942,7 +941,7 @@
             "tags": [
                 "C3S", 
                 "Crowdfunding", 
-                "Gema"
+                "GEMA"
             ], 
             "title": "C3S will sich zur Gema-Alternative entwickeln", 
             "url": "http://www.computerbase.de/news/2013-08/c3s-will-sich-zur-gema-alternative-entwickeln/"
@@ -954,7 +953,7 @@
             "tags": [
                 "C3S", 
                 "Crowdfunding", 
-                "Gema"
+                "GEMA"
             ], 
             "title": "Geplante GEMA-Alternative C3S erreicht Etappenziel", 
             "url": "http://www.heise.de/newsticker/meldung/Geplante-GEMA-Alternative-C3S-erreicht-Etappenziel-1928681.html"
@@ -966,7 +965,7 @@
             "tags": [
                 "C3S", 
                 "Crowdfunding", 
-                "Gema"
+                "GEMA"
             ], 
             "title": "C3S: AKM/GEMA-Alternative sammelt in 19 Tagen 80.000 EUR", 
             "url": "http://www.telekom-presse.at/C3S_AKM-GEMA-Alternative_sammelt_in_19_Tagen_80-000_EUR_.id.26753.htm"
@@ -978,7 +977,7 @@
             "tags": [
                 "C3S", 
                 "Crowdfunding", 
-                "Gema"
+                "GEMA"
             ], 
             "title": "C3S: GEMA-Alternative sammelt 80.000 Euro in 19 Tagen", 
             "url": "http://www.musikmarkt.de/Aktuell/News/C3S-GEMA-Alternative-sammelt-80.000-Euro-in-19-Tagen"
@@ -990,7 +989,7 @@
             "tags": [
                 "C3S", 
                 "Crowdfunding", 
-                "Gema"
+                "GEMA"
             ], 
             "title": "Konkurrenz f\u00fcr die Gema", 
             "url": "http://taz.de/Crowdfunding-Initiative-fuer-Urheberrecht/!120995/"
@@ -1001,7 +1000,7 @@
             "source": "musikexpress", 
             "tags": [
                 "C3S", 
-                "Gema"
+                "GEMA"
             ], 
             "title": "C3S: Die GEMA f\u00fcr das digitale Zeitalter?", 
             "url": "http://www.musikexpress.de/technik-web-gadgets/article452717/c3s-die-gema-fuer-das-digitale-zeitalter.html"
@@ -1012,7 +1011,7 @@
             "source": "Stern", 
             "tags": [
                 "C3S", 
-                "Gema", 
+                "GEMA", 
                 "Rebellion", 
                 "YouTube"
             ], 
@@ -1026,7 +1025,7 @@
             "tags": [
                 "C3S", 
                 "Crowdfunding", 
-                "Gema"
+                "GEMA"
             ], 
             "title": "GEMA: Konkurrenz-Organisation vor Durchbruch", 
             "url": "http://business.chip.de/news/GEMA-Konkurrenz-Organisation-vor-Durchbruch_63319344.html"
@@ -1037,7 +1036,7 @@
             "source": "WSJ", 
             "tags": [
                 "C3S", 
-                "Gema", 
+                "GEMA", 
                 "Rebellion"
             ], 
             "title": "Musiker rebellieren gegen die Gema", 
@@ -1208,7 +1207,7 @@
             "language": "de", 
             "source": "Stern", 
             "tags": [
-                "Gema", 
+                "GEMA", 
                 "YouTube"
             ], 
             "title": "Gema-Klage gegen Youtube - Neues f\u00fcr den Sperrbezirk", 
@@ -1264,7 +1263,7 @@
             "language": "de", 
             "source": "Telepolis", 
             "tags": [
-                "Gema", 
+                "GEMA", 
                 "EuGH"
             ], 
             "title": "Die Zahnl\u00fccke der GEMA - Deutsche Wahrnehmungsgesellschaft GEMA ignoriert EuGH-Urteil", 
@@ -1275,7 +1274,7 @@
             "language": "de", 
             "source": "Spiegel Online", 
             "tags": [
-                "Gema", 
+                "GEMA", 
                 "Club"
             ], 
             "title": "Streit&nbsp;um Gema-Tarife: Kalter Krieg im Club", 
@@ -1483,7 +1482,7 @@
             "language": "de", 
             "source": "delamar", 
             "tags": [
-                "Gema", 
+                "GEMA", 
                 "C3S", 
                 "Alternative", 
                 "Sigint"
@@ -1496,7 +1495,7 @@
             "language": "de", 
             "source": "heise online", 
             "tags": [
-                "Gema", 
+                "GEMA", 
                 "YouTube"
             ], 
             "title": "GEMA legt im YouTube-Streit Berufung ein", 
@@ -1519,8 +1518,8 @@
             "language": "de", 
             "source": "taz", 
             "tags": [
-                "Gema", 
-                "Creative Commons", 
+                "GEMA", 
+                "Creative-Commons-Lizenzen", 
                 "Sigint", 
                 "C3S", 
                 "Konkurrenz"
@@ -1534,7 +1533,7 @@
             "source": "golem", 
             "tags": [
                 "C3S", 
-                "Gema"
+                "GEMA"
             ], 
             "title": "C3S statt Gema", 
             "url": "http://www.golem.de/news/urheberrecht-cs3-statt-gema-1205-91904.html"
@@ -1567,7 +1566,7 @@
             "language": "de", 
             "source": "heise online", 
             "tags": [
-                "Gema", 
+                "GEMA", 
                 "YouTube"
             ], 
             "title": "Gema-Chef sieht YouTube im Handlungszwang", 
@@ -1578,7 +1577,7 @@
             "language": "de", 
             "source": "Telepolis", 
             "tags": [
-                "Gema", 
+                "GEMA", 
                 "YouTube"
             ], 
             "title": "GEMA gegen YOUTUBE", 
@@ -1589,7 +1588,7 @@
             "language": "de", 
             "source": "heise online", 
             "tags": [
-                "Gema", 
+                "GEMA", 
                 "YouTube"
             ], 
             "title": "YouTube bietet Gema Verhandlungen an", 
@@ -1600,7 +1599,7 @@
             "language": "de", 
             "source": "heise online", 
             "tags": [
-                "Gema", 
+                "GEMA", 
                 "YouTube"
             ], 
             "title": "Landgericht: YouTube muss Musiktitel aus dem Netz nehmen ", 
@@ -1652,8 +1651,8 @@
             "language": "de", 
             "source": "heise online", 
             "tags": [
-                "Gema", 
-                "Creative Commons"
+                "GEMA", 
+                "Creative-Commons-Lizenzen"
             ], 
             "title": "GEMA bleibt beim Nein zu Creative-Commons-Lizenzen", 
             "url": "http://www.heise.de/newsticker/meldung/GEMA-bleibt-beim-Nein-zu-Creative-Commons-Lizenzen-1425869.html"
@@ -1664,7 +1663,7 @@
             "source": "Telepolis", 
             "tags": [
                 "GEMA", 
-                "Creative Commons"
+                "Creative-Commons-Lizenzen"
             ], 
             "title": "Gema will Geld f\u00fcr Creative-Commons-Veranstaltung", 
             "url": "http://www.heise.de/tp/artikel/35/35869/1.html"
@@ -1743,7 +1742,7 @@
             "language": "de", 
             "source": "heise online", 
             "tags": [
-                "Creative Commons", 
+                "Creative-Commons-Lizenzen", 
                 "Sigint"
             ], 
             "title": "SIGINT: Creative Commons als Nische", 
@@ -1754,7 +1753,7 @@
             "language": "de", 
             "source": "Der Spiegel (Print)", 
             "tags": [
-                "Gema", 
+                "GEMA", 
                 "Blues-Mobil"
             ], 
             "title": "Melodien f\u00fcr Millionen ", 
