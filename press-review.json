@@ -1,6 +1,151 @@
 {
     "data": [
         {
+            "date": "2015-11-17 13:07", 
+            "language": "de", 
+            "source": "MusikWoche mediabiz", 
+            "tags": [
+                "Verwertungsgesellschaftengesetz", 
+                "VGG", 
+                "Genossenschaftsrecht", 
+                "C3S"
+            ], 
+            "title": "C3S kritisiert Entwurf zum Verwertungsgesellschaftengesetz", 
+            "url": "http://www.mediabiz.de/musik/news/c3s-kritisiert-entwurf-zum-verwertungsgesellschaftengesetz/401573"
+        }, 
+        {
+            "date": "2015-10-09 18:55", 
+            "language": "de", 
+            "source": "S\u00fcddeutsche Zeitung", 
+            "tags": [
+                "C3S", 
+                "Meik Michalke", 
+                "Adore", 
+                "Micropayment-System"
+            ], 
+            "title": "Urheberrechte: Gema-Alternative C3S will 2016 starten", 
+            "url": "http://www.golem.de/news/urheberrechte-gema-alternative-c3s-will-2016-starten-1509-116281.html"
+        }, 
+        {
+            "date": "2015-09-21 09:07", 
+            "language": "de", 
+            "source": "Golem", 
+            "tags": [
+                "C3S", 
+                "GEMA", 
+                "Zulassung", 
+                "DPMA"
+            ], 
+            "title": "Urheberrechte: Gema-Alternative C3S will 2016 starten", 
+            "url": "http://www.golem.de/news/urheberrechte-gema-alternative-c3s-will-2016-starten-1509-116281.html"
+        }, 
+        {
+            "date": "2015-05-08", 
+            "language": "de", 
+            "source": "musikmarkt", 
+            "tags": [
+                "C3S", 
+                "Gesch\u00e4ftsf\u00fchrende Direktoren"
+            ], 
+            "title": "C3S: Holger Schwetter beerbt Wolfgang Senges als Gesch\u00e4ftsf\u00fchrender Direktor", 
+            "url": "http://www.musikmarkt.de/Aktuell/News/C3S-Holger-Schwetter-beerbt-Wolfgang-Senges-als-Geschaeftsfuehrender-Direktor"
+        }, 
+        {
+            "date": "2015-07", 
+            "language": "de", 
+            "source": "musikmarkt", 
+            "tags": [
+                "C3S", 
+                "GEMA", 
+                "Zulassung", 
+                "Creative-Commons-Lizenzen"
+            ], 
+            "title": "Gipfelsturm mit angezogener Handbremse", 
+            "url": "http://www.nmz.de/artikel/gipfelsturm-mit-angezogener-handbremse"
+        }, 
+        {
+            "date": "2015-04-15", 
+            "language": "de", 
+            "source": "tonspion", 
+            "tags": [
+                "C3S", 
+                "Kritik"
+            ], 
+            "title": "GEMA-Alternative C3S: Spenden statt zahlen", 
+            "url": "http://www.tonspion.de/neues/neueste/5593043"
+        }, 
+        {
+            "date": "2015-04-15", 
+            "language": "de", 
+            "source": "tonspion", 
+            "tags": [
+                "C3S", 
+                "Interview", 
+                "Adore", 
+                "Spendensystem"
+            ], 
+            "title": "Warum entwickelt die C3S ein neues Spendensystem f\u00fcr Musik?", 
+            "url": "http://www.tonspion.de/neues/neueste/5593044"
+        }, 
+        {
+            "date": "2015-04-15", 
+            "language": "de", 
+            "source": "iRIGHTS.info", 
+            "tags": [
+                "C3S", 
+                "Adore", 
+                "Micropayment-System"
+            ], 
+            "title": "Warum entwickelt die C3S ein neues Spendensystem f\u00fcr Musik, Meik Michalke?", 
+            "url": "https://irights.info/artikel/warum-entwickelt-die-c3s-ein-neues-spendensystem-fuer-musik-meik-michalke/25220"
+        }, 
+        {
+            "date": "2015-02-23", 
+            "language": "de", 
+            "source": "iRIGHTS.info", 
+            "tags": [
+                "C3S", 
+                "GEMA", 
+                "Interview"
+            ], 
+            "title": "GEMA-Alternative sucht Mitglieder", 
+            "url": "https://irights.info/artikel/gema-alternative-sucht-mitglieder/24987"
+        }, 
+        {
+            "date": "2015-01-15", 
+            "language": "de", 
+            "source": "Netzpiloten", 
+            "tags": [
+                "C3S", 
+                "GEMA"
+            ], 
+            "title": "C3S kann die Alternative zur GEMA werden", 
+            "url": "http://www.netzpiloten.de/c3s-kann-die-alternative-zur-gema-werden/"
+        }, 
+        {
+            "date": "2015-01-12", 
+            "language": "de", 
+            "source": "musikmarkt", 
+            "tags": [
+                "C3S", 
+                "Finanzierung", 
+                "Crowdfunding", 
+                "Zulassung"
+            ], 
+            "title": "C3S will Finanzierungsl\u00fccke per Crowdfunding schlie\u00dfen", 
+            "url": "http://www.musikmarkt.de/Aktuell/News/C3S-will-Finanzierungsluecke-per-Crowdfunding-schliessen"
+        }, 
+        {
+            "date": "2014-07", 
+            "language": "de", 
+            "source": "brandeins", 
+            "tags": [
+                "C3S"
+            ], 
+            "title": "Gema-Alternative C3S: Da ist Musik drin", 
+            "url": "http://www.brandeins.de/archiv/2014/alternativen/alternative-musikrechte-c3s-creative-commons-gema-da-ist-musik-drin/"
+        }, 
+        {
             "date": "2014-04-29 06:00", 
             "language": "de", 
             "source": "futurezone", 
@@ -1087,6 +1232,18 @@
             "source": "Telepolis", 
             "title": "Petition gegen GEMA-Vermutung nimmt erste H\u00fcrde", 
             "url": "http://www.heise.de/tp/blogs/6/153007"
+        }, 
+        {
+            "date": "2012-10-11", 
+            "language": "de", 
+            "source": "MyOwnMusic", 
+            "tags": [
+                "C3S", 
+                "GEMA-Alternative", 
+                "Absichtserkl\u00e4rung"
+            ], 
+            "title": "Nicht meckern, mitmachen!", 
+            "url": "http://www.myownmusic.de/Allgemein/news/show?newsid=1605"
         }, 
         {
             "date": "2012-10-01 00:00", 
