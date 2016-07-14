@@ -1,6 +1,46 @@
 {
     "data": [
         {
+            "date": "2016-04-28",
+            "language": "de",
+            "source": "musikmarkt",
+            "tags": [
+                "C3S",
+                "Zulassungsantrag",
+                "Zulassung"
+            ],
+            "title": "C3S will Zulassung als Verwertungsgesellschaft beantragen",
+            "url": "http://www.musikmarkt.de/Aktuell/News/C3S-will-Zulassung-als-Verwertungsgesellschaft-beantragen"
+        },
+        {
+            "date": "2016-02-18 07:43",
+            "language": "de",
+            "source": "heise online",
+            "tags": [
+                "Musikindustrie",
+                "Kulturpauschale",
+                "Piraterie",
+                "GEMA",
+                "Creative Commons",
+                "Privatkopie"
+            ],
+            "title": "Musikindustrie: Kulturpauschale auch zur Pirateriebek\u00e4mpfung nutzen",
+            "url": "http://www.heise.de/newsticker/meldung/Musikindustrie-Kulturpauschale-auch-zur-Pirateriebekaempfung-nutzen-3109850.html"
+        },
+        {
+            "date": "2016-02-10",
+            "language": "de",
+            "source": "iRIGHTS.info",
+            "tags": [
+                "GEMA",
+                "Remixkultur",
+                "Monitoring",
+                "Diskothek"
+            ],
+            "title": "Diskotheken-Monitoring und Remixkultur: Das verschleppte Problem",
+            "url": "https://irights.info/artikel/gema-diskotheken-monitoring-remix-sampling/26911"
+        },
+        {
             "date": "2016-01-12 14:30",
             "language": "de",
             "source": "mediabiz musikwoche",
@@ -1234,6 +1274,17 @@
             ],
             "title": "Gema-Klage gegen Youtube - Neues f\u00fcr den Sperrbezirk",
             "url": "http://www.stern.de/digital/online/gema-klage-gegen-youtube-neues-fuer-den-sperrbezirk-1962099.html"
+        },
+        {
+            "date": "2012-12-29 11:36",
+            "language": "de",
+            "source": "gulli",
+            "tags": [
+                "C3S",
+                "29C3"
+            ],
+            "title": "29C3: C3S versucht den GEMA-Hack",
+            "url": "http://www.gulli.com/news/20575-29c3-c3s-versucht-den-gema-hack-2012-12-29"
         },
         {
             "date": "2012-11-05 18:12",
