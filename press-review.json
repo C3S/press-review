@@ -1,6 +1,69 @@
 {
     "data": [
         {
+            "date": "2016-12-05",
+            "language": "de",
+            "source": "iRIGHTS.info",
+            "tags": [
+                "C3S",
+                "GEMA",
+                "Tarife",
+                "Tarifrechner"
+            ],
+            "title": "C3S: Tarifrechner f\u00fcr GEMA-Abgaben ver\u00f6ffentlicht",
+            "url": "https://irights.info/webschau/c3s-tarifrechner-fuer-gema-abgaben-veroeffentlicht/28250"
+        },
+        {
+            "date": "2016-11-15",
+            "language": "de",
+            "source": "iRIGHTS.info",
+            "tags": [
+                "GEMA",
+                "Urteil",
+                "Musikverlage",
+                "Tantiemen",
+                "Aussch\u00fcttung"
+            ],
+            "title": "GEMA-Urteil: Die K\u00fcnstler haben die Macht",
+            "url": "https://irights.info/artikel/gema-tantiemen-kg-berlin/28178"
+        },
+        {
+            "date": "2016-11-06",
+            "language": "de",
+            "source": "Frankfurter Allgemeine Zeitung",
+            "tags": [
+                "GEMA",
+                "YouTube",
+                "Urheberrecht"
+            ],
+            "title": "Youtubes sch\u00f6ne neue Videowelt",
+            "url": "http://www.faz.net/aktuell/wirtschaft/netzwirtschaft/google/youtubes-schoene-neue-videowelt-nach-einigung-mit-gema-14514326.html"
+        },
+        {
+            "date": "2016-11-04",
+            "language": "de",
+            "source": "iRIGHTS.info",
+            "tags": [
+                "GEMA",
+                "YouTube",
+                "Urheberrecht"
+            ],
+            "title": "GEMA-Youtube-Deal: Nach der Dauerbaustelle ist vor der Dauerbaustelle",
+            "url": "https://irights.info/2016/11/04/gema-youtube-deal-nach-der-dauerbaustelle-ist-vor-der-dauerbaustelle/28125"
+        },
+        {
+            "date": "2016-06-29",
+            "language": "de",
+            "source": "Netzpolitik.org",
+            "tags": [
+                "GEMA",
+                "Creative Commons",
+                "Creative-Commons-Lizenzen"
+            ],
+            "title": "GEMA erlaubt Mitgliedern \u201everg\u00fctungsfreie Lizenzen\u201c, Kompatibilit\u00e4t mit Creative Commons fraglich",
+            "url": "https://netzpolitik.org/2016/gema-erlaubt-mitgliedern-verguetungsfreie-lizenzen-kompatibilitaet-mit-creative-commons-fraglich/"
+        },
+        {
             "date": "2016-04-28",
             "language": "de",
             "source": "musikmarkt",
@@ -21,7 +84,7 @@
                 "GEMA-Alternative",
                 "Selbstbestimmung"
             ],
-            "title": "Gema-Alternative für selbstbestimmte Künstler",
+            "title": "Gema-Alternative f\u00fcr selbstbestimmte K\u00fcnstler",
             "url": "https://www.liberale.de/content/gema-alternative-fur-selbstbestimmte-kunstler"
         },
         {
