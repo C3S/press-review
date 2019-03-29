@@ -1,6 +1,31 @@
 {
     "data": [
         {
+            "date": "2019-03-28 11:58",
+            "language": "de",
+            "source": "Neues Deutschland",
+            "tags": [
+                "Artikel 12",
+                "EU-Urheberrechtsrichtlinie",
+                "Urheberrecht",
+                "Urheberrechtsreform"
+            ],
+            "title": "Nicht im Internetzeitalter angekommen",
+            "url": "https://www.neues-deutschland.de/artikel/1115407.urheberrecht-nicht-im-internetzeitalter-angekommen.html"
+        },
+        {
+            "date": "2018-07-03",
+            "language": "de",
+            "source": "neue musikzeitung",
+            "tags": [
+                "EU-Urheberrechtsrichtlinie",
+                "Urheberrecht",
+                "Urheberrechtsreform"
+            ],
+            "title": "C3S: „Ja“ zur Modernisierung des EU-Urheberrechts, „Nein“ zum Entwurf des Rechtsausschusses",
+            "url": "https://www.nmz.de/kiz/nachrichten/c3s-ja-zur-modernisierung-des-eu-urheberrechts-nein-zum-entwurf-des-rechtsausschusse"
+        },
+        {
             "date": "2016-12-05",
             "language": "de",
             "source": "iRIGHTS.info",
@@ -189,7 +214,7 @@
         {
             "date": "2015-07",
             "language": "de",
-            "source": "musikmarkt",
+            "source": "neue musikzeitung",
             "tags": [
                 "C3S",
                 "GEMA",
